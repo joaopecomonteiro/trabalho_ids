@@ -1,0 +1,805 @@
+Unnamed: 0,custid,sex,is_employed,income,marital_status,health_ins,housing_type,num_vehicles,age,state_of_res,code_column,gas_usage,rooms,recent_move_b
+4523,001115999_01,Male,,28900.0,Married,,Homeowner free and clear,1.0,82,Arkansas,653,20.0,6,F
+58780,000566299_01,Male,True,40000.0,Never married,,Rented,1.0,40,New Mexico,404,40.0,5,T
+18628,001397329_01,Female,True,203000.0,Married,,Homeowner with mortgage/loan,3.0,54,Colorado,1291,80.0,2,F
+11525,000843100_01,Female,,0.0,Married,,Homeowner free and clear,1.0,64,California,8962,30.0,2,F
+56266,000260071_03,Male,True,40000.0,Married,,Homeowner with mortgage/loan,4.0,35,New Jersey,2059,150.0,1,F
+6793,000254582_02,Male,True,120000.0,Married,,Homeowner with mortgage/loan,2.0,31,California,8962,2.0,2,T
+39591,000916197_03,Female,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,26,Kentucky,935,60.0,2,T
+19009,000295424_04,Female,True,10000.0,Married,,Homeowner with mortgage/loan,2.0,61,Connecticut,832,3.0,3,F
+67836,001284781_02,Female,,8600.0,Married,,Homeowner free and clear,4.0,71,North Carolina,2357,10.0,5,F
+41148,001021897_02,Male,True,50000.0,Never married,,Rented,2.0,31,Louisiana,1104,3.0,6,F
+85593,000492942_01,Male,True,118500.0,Married,,Homeowner free and clear,2.0,63,Texas,6026,70.0,6,T
+22111,000397344_03,Female,True,37800.0,Never married,,Homeowner free and clear,3.0,26,Florida,4979,3.0,1,T
+51230,000734672_01,Female,,36300.0,Widowed,,Homeowner free and clear,1.0,78,Mississippi,671,50.0,6,F
+80689,001391631_02,Female,True,50000.0,Married,,Homeowner with mortgage/loan,2.0,34,South Dakota,188,10.0,4,F
+81609,000671652_02,Female,True,54000.0,Married,,Homeowner with mortgage/loan,3.0,31,Tennessee,1501,3.0,5,F
+60425,000331874_04,Male,True,56000.0,Married,,Homeowner with mortgage/loan,4.0,67,New York,4431,3.0,5,F
+44923,000782616_03,Male,,8000.0,Never married,,Homeowner free and clear,2.0,47,Massachusetts,1642,220.0,2,F
+17278,000202989_02,Female,,0.0,Married,,Rented,2.0,36,Colorado,1291,2.0,5,F
+31203,000120703_01,Female,True,75000.0,Never married,,Rented,1.0,28,Illinois,2925,3.0,2,F
+81511,000592400_01,Female,,28400.0,Widowed,,Homeowner with mortgage/loan,2.0,71,Tennessee,1501,50.0,3,F
+4950,000024190_01,Male,True,75000.0,Divorced/Separated,,Rented,1.0,52,California,8962,30.0,1,F
+39845,001204446_02,Female,,11800.0,Married,,Homeowner free and clear,2.0,71,Kentucky,935,40.0,1,F
+59867,000175580_01,Female,,16200.0,Widowed,,Homeowner free and clear,1.0,81,New York,4431,1.0,4,F
+20076,000870279_02,Female,,16800.0,Married,,Rented,1.0,57,Delaware,204,2.0,1,F
+46716,000313508_02,Female,True,48000.0,Married,,Homeowner with mortgage/loan,2.0,32,Michigan,2269,100.0,4,T
+36416,001148489_03,Female,,10000.0,Married,,Rented,2.0,43,Indiana,1467,70.0,4,F
+47833,000885890_01,Male,,13200.0,Married,,Homeowner with mortgage/loan,2.0,75,Michigan,2269,3.0,5,F
+59944,000195750_02,Female,False,1000.0,Never married,,Homeowner free and clear,1.0,53,New York,4431,120.0,1,F
+96938,001145954_01,Male,True,35000.0,Married,,Rented,1.0,37,Washington,1681,3.0,5,F
+42459,000295924_03,Female,True,64000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,36,Maryland,1337,3.0,5,F
+14964,001264173_01,Male,True,50000.0,Married,,Homeowner free and clear,4.0,55,California,8962,2.0,3,F
+65706,000269175_01,Female,True,53400.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,38,North Carolina,2357,20.0,6,F
+77073,000913388_02,Female,True,43000.0,Married,,Homeowner with mortgage/loan,2.0,41,Pennsylvania,2997,50.0,3,F
+82545,001363997_01,Male,True,34200.0,Married,,Homeowner with mortgage/loan,1.0,78,Tennessee,1501,3.0,1,F
+97888,001093854_02,Female,,12500.0,Divorced/Separated,,Rented,0.0,50,West Virginia,422,70.0,4,T
+30747,001001459_01,Female,True,19200.0,Married,,Homeowner with mortgage/loan,1.0,26,Idaho,333,30.0,5,F
+7374,000328643_02,Male,False,0.0,Never married,,Rented,0.0,23,California,8962,10.0,1,F
+65151,000000120_01,Female,,16300.0,Divorced/Separated,,,,81,North Carolina,2357,,1,
+8105,000422194_02,Female,True,85000.0,Married,,Homeowner free and clear,3.0,46,California,8962,30.0,6,F
+11671,000861400_01,Female,True,31600.0,Married,,Homeowner with mortgage/loan,4.0,70,California,8962,200.0,2,F
+8132,000425113_02,Male,True,45000.0,Never married,,Rented,0.0,41,California,8962,20.0,1,F
+48362,001139831_02,Female,True,11000.0,Married,,Homeowner with mortgage/loan,2.0,32,Michigan,2269,1.0,2,T
+77535,001098177_02,Male,True,45000.0,Married,,Homeowner with mortgage/loan,2.0,36,Pennsylvania,2997,100.0,2,F
+34677,001454116_01,Male,True,41000.0,Never married,,Rented,0.0,45,Illinois,2925,3.0,4,T
+41960,001065739_02,Female,,12000.0,Married,,Homeowner with mortgage/loan,1.0,74,Maine,325,100.0,3,F
+99058,000862301_02,Female,True,34000.0,Married,,Homeowner with mortgage/loan,2.0,33,Wisconsin,1305,2.0,1,F
+94947,001359686_01,Female,True,74300.0,Married,,Homeowner with mortgage/loan,2.0,48,Virginia,1942,100.0,3,F
+38854,000060133_01,Male,True,100000.0,Married,,Homeowner with mortgage/loan,2.0,28,Kentucky,935,2.0,2,F
+87948,000909727_01,Female,True,52000.0,Married,,Homeowner free and clear,2.0,58,Texas,6026,30.0,1,F
+69619,000440713_01,Female,,12000.0,Married,,Homeowner with mortgage/loan,2.0,78,Ohio,2614,3.0,4,F
+99889,000538073_01,Male,True,111000.0,Married,,Homeowner with mortgage/loan,2.0,28,Wyoming,131,2.0,5,F
+83994,000213453_01,Male,,15000.0,Married,,Homeowner with mortgage/loan,2.0,69,Texas,6026,3.0,2,T
+94213,000958495_02,Male,True,32000.0,Never married,,Homeowner with mortgage/loan,3.0,27,Virginia,1942,3.0,6,T
+47541,000750146_02,Female,True,26000.0,Married,,Homeowner with mortgage/loan,2.0,68,Michigan,2269,110.0,2,F
+13393,001073655_05,Male,,0.0,Never married,,Rented,0.0,21,California,8962,3.0,1,T
+49974,000796895_01,Male,,52220.0,Married,,Homeowner free and clear,2.0,77,Minnesota,1226,60.0,3,F
+57704,001036141_02,Female,True,58000.0,Married,,Homeowner with mortgage/loan,4.0,51,New Jersey,2059,80.0,3,F
+55683,001218721_01,Male,True,35000.0,Married,,Rented,3.0,43,New Hampshire,307,100.0,1,F
+69564,000415641_01,Female,True,37000.0,Married,,Homeowner with mortgage/loan,2.0,29,Ohio,2614,2.0,1,F
+56216,000238427_01,Male,True,68000.0,Married,,Homeowner with mortgage/loan,2.0,39,New Jersey,2059,90.0,4,F
+42310,000189844_02,Male,True,52000.0,Married,,Homeowner with mortgage/loan,2.0,57,Maryland,1337,130.0,2,F
+69792,000511206_02,Male,True,4000.0,Never married,,Rented,4.0,25,Ohio,2614,120.0,4,T
+13394,001073661_02,Male,,0.0,Married,,Homeowner with mortgage/loan,1.0,67,California,8962,80.0,6,F
+32785,000742417_01,Male,,34300.0,Widowed,,Homeowner free and clear,1.0,83,Illinois,2925,50.0,4,F
+55834,000039782_02,Male,True,105000.0,Married,,Homeowner with mortgage/loan,3.0,50,New Jersey,2059,50.0,1,F
+63695,001172289_01,Male,True,27000.0,Married,,Rented,0.0,25,New York,4431,1.0,3,F
+27062,000079871_02,Female,True,52000.0,Married,,Rented,2.0,35,Georgia,2198,3.0,3,F
+27238,000173418_02,Male,True,114900.0,Married,,Homeowner with mortgage/loan,3.0,65,Georgia,2198,3.0,5,F
+80393,001459015_01,Female,,840.0,Never married,,Rented,2.0,26,South Carolina,1177,4.0,3,F
+95768,000370855_01,Male,,8600.0,Divorced/Separated,,Rented,1.0,34,Washington,1681,3.0,1,T
+88286,000968686_02,Male,,35600.0,Married,,Homeowner with mortgage/loan,2.0,65,Texas,6026,3.0,3,F
+16572,001462250_01,Male,,25600.0,Married,,Homeowner with mortgage/loan,3.0,54,California,8962,160.0,1,F
+76506,000701757_02,Female,True,52000.0,Married,,Homeowner free and clear,2.0,50,Pennsylvania,2997,3.0,6,F
+66369,000597255_01,Female,,51300.0,Widowed,,Homeowner free and clear,0.0,93,North Carolina,2357,3.0,6,F
+39076,000316092_01,Female,,0.0,Married,,Rented,1.0,54,Kentucky,935,300.0,5,F
+54200,000907210_02,Male,,15000.0,Married,,Homeowner free and clear,2.0,58,Nebraska,407,40.0,2,F
+48170,001037574_01,Male,True,50000.0,Never married,,Rented,4.0,28,Michigan,2269,30.0,3,F
+69995,000599663_04,Male,False,0.0,Never married,,Rented,2.0,29,Ohio,2614,60.0,5,F
+76001,000509107_02,Female,True,83000.0,Married,,Rented,1.0,31,Pennsylvania,2997,3.0,5,T
+32367,000570228_01,Female,True,107000.0,Never married,,Homeowner with mortgage/loan,2.0,40,Illinois,2925,70.0,3,F
+27546,000320021_01,Male,True,25000.0,Married,,Homeowner with mortgage/loan,2.0,34,Georgia,2198,3.0,6,F
+44603,000549974_02,Female,,0.0,Married,,Rented,0.0,30,Massachusetts,1642,3.0,6,T
+52209,000415798_01,Female,True,81000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,41,Missouri,1397,3.0,4,F
+91837,000702476_01,Female,,0.0,Widowed,,,,54,Utah,665,,1,
+38366,000782205_01,Female,True,24400.0,Never married,,Rented,2.0,30,Kansas,647,3.0,5,F
+66896,000851706_02,Female,,0.0,Married,,Rented,1.0,33,North Carolina,2357,3.0,5,T
+82678,001456315_02,Female,,1400.0,Married,,Homeowner with mortgage/loan,2.0,71,Tennessee,1501,20.0,1,F
+89826,001245592_03,Female,True,57000.0,Never married,,Homeowner with mortgage/loan,5.0,28,Texas,6026,30.0,3,F
+7304,000320584_02,Female,True,36000.0,Never married,,Rented,2.0,41,California,8962,20.0,4,F
+75457,000297763_02,Female,True,9950.0,Never married,,Homeowner with mortgage/loan,0.0,49,Pennsylvania,2997,50.0,2,F
+48301,001108778_03,Female,True,81000.0,Divorced/Separated,,Rented,0.0,58,Michigan,2269,200.0,3,F
+41182,001059294_01,Female,True,40000.0,Divorced/Separated,,Occupied with no rent,3.0,52,Louisiana,1104,100.0,2,F
+57024,000654907_01,Male,True,40000.0,Married,,Homeowner with mortgage/loan,2.0,35,New Jersey,2059,3.0,4,F
+93807,000741149_01,Male,True,10000.0,Never married,,Rented,2.0,28,Virginia,1942,3.0,5,F
+48543,001236829_01,Male,True,59000.0,Never married,,Homeowner with mortgage/loan,2.0,62,Michigan,2269,40.0,4,F
+92097,001093164_01,Male,True,85000.0,Never married,,Homeowner free and clear,1.0,35,Utah,665,80.0,2,F
+784,000843749_01,Female,,3600.0,Married,,,,60,Alabama,1047,,1,
+40214,000076491_01,Female,,30000.0,Widowed,,Homeowner free and clear,1.0,61,Louisiana,1104,3.0,3,F
+74940,000105100_02,Female,,15000.0,Never married,,Homeowner free and clear,2.0,29,Pennsylvania,2997,70.0,3,T
+98292,000219438_01,Male,True,103600.0,Married,,Rented,3.0,49,Wisconsin,1305,20.0,5,F
+11115,000791714_02,Female,,14700.0,Married,,Homeowner free and clear,1.0,88,California,8962,60.0,5,F
+1327,001402097_01,Male,,28800.0,Married,,Homeowner free and clear,2.0,64,Alabama,1047,3.0,3,F
+4095,000457284_02,Female,,0.0,Married,,Homeowner free and clear,2.0,51,Arkansas,653,190.0,6,F
+78174,001343695_02,Female,True,40000.0,Married,,Homeowner with mortgage/loan,2.0,60,Pennsylvania,2997,200.0,6,F
+959,001007889_01,Male,True,96000.0,Married,,Homeowner with mortgage/loan,2.0,54,Alabama,1047,3.0,2,F
+12869,001008707_02,Female,True,50000.0,Married,,Rented,2.0,27,California,8962,2.0,1,T
+2502,000546993_01,Female,True,13050.0,Married,,Homeowner with mortgage/loan,1.0,39,Arizona,1534,30.0,6,F
+19985,000402691_01,Male,True,130000.0,Married,,Homeowner with mortgage/loan,3.0,50,Delaware,204,50.0,5,F
+8359,000450004_02,Male,True,50000.0,Married,,Rented,0.0,30,California,8962,3.0,5,T
+64547,001372052_01,Male,True,160000.0,Married,,Homeowner with mortgage/loan,2.0,40,New York,4431,40.0,3,F
+66894,000850748_01,Female,,28000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,56,North Carolina,2357,180.0,1,F
+15898,001378027_01,Male,True,70000.0,Married,,Homeowner free and clear,2.0,60,California,8962,60.0,1,F
+8509,000470164_04,Female,True,14501.0,Married,,Homeowner free and clear,2.0,44,California,8962,2.0,5,F
+37739,001244185_02,Female,True,46000.0,Married,,Homeowner with mortgage/loan,2.0,42,Iowa,706,3.0,2,F
+30723,000898056_01,Female,,16100.0,Widowed,,Homeowner free and clear,0.0,89,Idaho,333,3.0,2,F
+52628,000781476_01,Male,True,4000.0,Never married,,,,54,Missouri,1397,,3,
+63487,001117854_05,Male,True,110000.0,Married,,Homeowner with mortgage/loan,3.0,62,New York,4431,100.0,1,F
+16522,001453951_01,Male,,7400.0,Married,,Homeowner with mortgage/loan,0.0,67,California,8962,2.0,4,F
+3545,001298239_01,Female,True,99000.0,Divorced/Separated,,Homeowner free and clear,1.0,67,Arizona,1534,3.0,1,T
+33175,000900571_01,Male,True,20000.0,Never married,,Rented,1.0,30,Illinois,2925,50.0,2,F
+18235,001045392_01,Female,True,15900.0,Never married,,Rented,1.0,58,Colorado,1291,20.0,2,F
+70709,000898972_02,Male,True,396000.0,Married,,Homeowner with mortgage/loan,4.0,58,Ohio,2614,30.0,1,F
+89402,001167095_01,Male,,69900.0,Married,,Homeowner free and clear,2.0,80,Texas,6026,30.0,3,F
+18884,000133119_01,Female,,20820.0,Married,,Homeowner with mortgage/loan,1.0,81,Connecticut,832,100.0,4,F
+26673,001466687_01,Female,,7900.0,Widowed,,Homeowner with mortgage/loan,2.0,75,Florida,4979,3.0,2,F
+93011,000262103_02,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,48,Virginia,1942,3.0,1,F
+38234,000525632_02,Female,,2200.0,Married,,Rented,0.0,53,Kansas,647,390.0,5,F
+65759,000296137_02,Male,True,12000.0,Married,,Homeowner with mortgage/loan,2.0,39,North Carolina,2357,3.0,2,F
+6057,000165415_01,Female,True,90000.0,Divorced/Separated,,Rented,1.0,43,California,8962,2.0,1,T
+49269,000160026_02,Female,,57700.0,Married,,Homeowner free and clear,2.0,70,Minnesota,1226,120.0,2,F
+69092,000217067_02,Female,True,120000.0,Married,,Homeowner with mortgage/loan,4.0,49,Ohio,2614,2.0,2,F
+71978,001428140_01,Female,True,60000.0,Divorced/Separated,,Rented,1.0,59,Ohio,2614,40.0,3,F
+41253,001122744_01,Male,True,6010.0,Never married,,Rented,3.0,44,Louisiana,1104,3.0,5,F
+63422,001104181_01,Male,,890.0,Divorced/Separated,,Rented,0.0,63,New York,4431,20.0,4,F
+41018,000877399_04,Female,True,16000.0,Never married,,Homeowner free and clear,4.0,22,Louisiana,1104,3.0,3,F
+46230,000082481_02,Male,,600.0,Married,,Homeowner with mortgage/loan,4.0,48,Michigan,2269,90.0,2,F
+31387,000189029_02,Male,True,22000.0,Married,,Homeowner with mortgage/loan,2.0,54,Illinois,2925,90.0,3,F
+93847,000758633_02,Male,True,43000.0,Married,,Homeowner with mortgage/loan,3.0,38,Virginia,1942,70.0,1,F
+73461,000039712_02,Male,True,406000.0,Married,,Homeowner with mortgage/loan,3.0,55,Oregon,952,150.0,6,F
+59652,000125430_01,Male,True,56000.0,Married,,Homeowner with mortgage/loan,2.0,36,New York,4431,50.0,2,T
+42028,001319395_02,Male,,36000.0,Married,,Homeowner free and clear,2.0,83,Maine,325,3.0,1,F
+59730,000143921_03,Male,True,39600.0,Married,,Homeowner free and clear,4.0,72,New York,4431,130.0,1,F
+97997,001405997_01,Female,True,17400.0,Never married,,Rented,1.0,46,West Virginia,422,3.0,2,F
+33736,001107531_01,Female,True,72000.0,Never married,,Homeowner with mortgage/loan,0.0,35,Illinois,2925,30.0,6,F
+22643,000524323_06,Female,,2400.0,Married,,Homeowner with mortgage/loan,3.0,80,Florida,4979,3.0,1,F
+47179,000571530_01,Male,True,39000.0,Never married,,Rented,1.0,28,Michigan,2269,3.0,5,F
+42365,000223397_01,Male,True,136000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,67,Maryland,1337,3.0,2,F
+74045,000726921_02,Male,True,80000.0,Married,,Rented,2.0,29,Oregon,952,3.0,3,F
+91800,000637467_01,Male,True,30000.0,Divorced/Separated,,Rented,1.0,59,Utah,665,260.0,4,T
+20102,001113019_08,Female,,0.0,Married,,Homeowner with mortgage/loan,4.0,62,Delaware,204,100.0,6,F
+25276,001135732_01,Female,,8900.0,Divorced/Separated,,Homeowner free and clear,1.0,71,Florida,4979,3.0,2,F
+49811,000648105_03,Male,True,35000.0,Never married,,Homeowner with mortgage/loan,4.0,31,Minnesota,1226,3.0,6,F
+61878,000697261_02,Male,,24800.0,Married,,Homeowner with mortgage/loan,3.0,62,New York,4431,100.0,4,F
+42551,000380483_01,Female,,76500.0,Widowed,,Rented,1.0,88,Maryland,1337,3.0,3,F
+83264,000080947_04,Female,,600.0,Never married,,Rented,1.0,21,Texas,6026,3.0,2,T
+65669,000252433_01,Male,True,54000.0,Divorced/Separated,,Homeowner with mortgage/loan,3.0,58,North Carolina,2357,3.0,1,F
+14041,001151755_01,Female,True,31700.0,Married,,Rented,2.0,34,California,8962,2.0,6,F
+61273,000547649_01,Male,True,270000.0,Never married,,Rented,0.0,26,New York,4431,1.0,1,F
+80101,001156654_01,Male,True,58000.0,Never married,,Homeowner with mortgage/loan,1.0,29,South Carolina,1177,10.0,3,T
+97590,000260593_01,Female,,8400.0,Never married,,Rented,1.0,39,West Virginia,422,3.0,3,F
+65987,000417480_01,Female,True,66500.0,Widowed,,Homeowner free and clear,2.0,64,North Carolina,2357,3.0,6,F
+32284,000543341_01,Male,True,24000.0,Married,,Occupied with no rent,0.0,57,Illinois,2925,3.0,1,F
+90501,001364571_02,Female,,21000.0,Married,,Homeowner free and clear,2.0,73,Texas,6026,40.0,6,F
+64130,001275230_01,Female,,17500.0,Married,,Homeowner free and clear,2.0,78,New York,4431,3.0,1,F
+39873,001240041_03,Female,True,45000.0,Never married,,Homeowner free and clear,4.0,42,Kentucky,935,60.0,5,F
+27884,000471827_01,Female,,23800.0,Divorced/Separated,,Homeowner free and clear,1.0,79,Georgia,2198,70.0,6,F
+42433,000276497_02,Female,,8100.0,Married,,Homeowner free and clear,1.0,64,Maryland,1337,100.0,4,F
+40302,000172067_01,Male,,24500.0,Married,,Homeowner with mortgage/loan,1.0,59,Louisiana,1104,30.0,4,F
+5075,000038053_01,Female,True,170000.0,Married,,Homeowner with mortgage/loan,3.0,33,California,8962,2.0,3,F
+31937,000407663_01,Male,True,80000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,48,Illinois,2925,40.0,4,F
+13993,001146276_01,Male,True,68000.0,Married,,Rented,2.0,54,California,8962,3.0,6,F
+31621,000281212_01,Female,True,42000.0,Divorced/Separated,,Rented,1.0,44,Illinois,2925,3.0,1,F
+15002,001267979_01,Male,,20900.0,Married,,Rented,0.0,85,California,8962,2.0,1,T
+48236,001076378_03,Female,True,25000.0,Never married,,Rented,3.0,30,Michigan,2269,100.0,2,F
+3875,000090675_02,Female,True,11400.0,Married,,Homeowner free and clear,2.0,38,Arkansas,653,30.0,5,F
+36027,000836668_02,Female,,26200.0,Married,,Homeowner free and clear,2.0,72,Indiana,1467,80.0,5,F
+23503,000723874_02,Male,True,33000.0,Married,,Homeowner free and clear,3.0,43,Florida,4979,3.0,5,F
+8077,000419716_03,Female,True,22680.0,Never married,,Occupied with no rent,3.0,27,California,8962,1.0,5,F
+9839,000631463_01,Male,True,120000.0,Married,,Homeowner with mortgage/loan,3.0,51,California,8962,2.0,4,F
+41962,001076435_02,Male,True,55000.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,55,Maine,325,3.0,5,F
+57547,000955645_02,Female,True,76000.0,Divorced/Separated,,Homeowner with mortgage/loan,4.0,47,New Jersey,2059,2.0,3,F
+487,000523201_01,Male,,8400.0,Never married,,Rented,0.0,25,Alabama,1047,3.0,6,T
+61127,000506431_01,Female,True,23300.0,Married,,Homeowner with mortgage/loan,1.0,31,New York,4431,90.0,6,F
+29153,001103375_01,Male,,13000.0,Married,,Homeowner free and clear,4.0,63,Georgia,2198,3.0,6,F
+52538,000704055_03,Male,,7200.0,Widowed,,Homeowner with mortgage/loan,3.0,94,Missouri,1397,2.0,5,F
+72939,000910196_01,Female,,29000.0,Widowed,,Homeowner free and clear,1.0,78,Oklahoma,901,200.0,1,F
+11783,000875258_01,Female,,40700.0,Divorced/Separated,,Rented,1.0,79,California,8962,20.0,2,F
+39815,001172662_01,Female,,60000.0,Never married,,Homeowner with mortgage/loan,2.0,65,Kentucky,935,3.0,5,F
+56603,000434258_07,Male,True,7000.0,Never married,,Homeowner with mortgage/loan,3.0,21,New Jersey,2059,50.0,2,F
+39511,000831237_02,Female,,35500.0,Married,,Homeowner with mortgage/loan,2.0,63,Kentucky,935,60.0,4,F
+42676,000508532_03,Male,True,95000.0,Never married,,Homeowner free and clear,1.0,48,Maryland,1337,3.0,4,F
+72827,000789106_02,Female,True,15000.0,Married,,Homeowner with mortgage/loan,2.0,43,Oklahoma,901,50.0,5,F
+32217,000514052_01,Male,True,58000.0,Married,,Homeowner free and clear,2.0,59,Illinois,2925,2.0,3,F
+62717,000919001_01,Female,True,50000.0,Married,,Homeowner with mortgage/loan,3.0,49,New York,4431,3.0,5,F
+50534,001319948_01,Male,,8000.0,Married,,Homeowner with mortgage/loan,2.0,60,Minnesota,1226,2.0,4,F
+74985,000118362_01,Male,True,84000.0,Married,,Homeowner with mortgage/loan,2.0,55,Pennsylvania,2997,2.0,2,F
+88691,001041401_02,Female,,19800.0,Widowed,,Homeowner free and clear,3.0,76,Texas,6026,3.0,4,F
+59973,000202051_01,Male,True,17000.0,Married,,Rented,2.0,46,New York,4431,3.0,2,T
+99364,001157078_01,Male,True,32000.0,Never married,,Rented,1.0,23,Wisconsin,1305,1.0,3,T
+32945,000811437_02,Female,,21860.0,Married,,Homeowner with mortgage/loan,2.0,74,Illinois,2925,80.0,5,F
+88178,000951668_03,Female,,0.0,Married,,Homeowner with mortgage/loan,4.0,29,Texas,6026,30.0,2,F
+86674,000683152_01,Male,True,50000.0,Never married,,Rented,1.0,21,Texas,6026,3.0,2,F
+56913,000592663_02,Female,True,52000.0,Married,,Homeowner free and clear,3.0,53,New Jersey,2059,3.0,6,F
+92062,001039367_01,Male,,10000.0,Never married,,Rented,3.0,22,Utah,665,3.0,6,T
+69351,000327006_02,Male,True,25000.0,Married,,Homeowner with mortgage/loan,2.0,30,Ohio,2614,2.0,6,T
+71736,001326865_02,Female,True,19200.0,Married,,Homeowner free and clear,3.0,66,Ohio,2614,40.0,4,F
+98893,000714400_02,Male,,32330.0,Married,,Occupied with no rent,2.0,78,Wisconsin,1305,50.0,2,F
+51630,001411481_02,Female,,20000.0,Married,,Homeowner with mortgage/loan,4.0,57,Mississippi,671,20.0,3,T
+62983,000993043_01,Male,,0.0,Never married,,,,46,New York,4431,,5,
+88977,001089706_01,Male,True,39400.0,Married,,Homeowner free and clear,1.0,62,Texas,6026,40.0,2,F
+73395,001473658_01,Male,True,79300.0,Married,,Homeowner with mortgage/loan,3.0,56,Oklahoma,901,50.0,4,F
+79077,000176095_01,Female,True,30000.0,Married,,Homeowner with mortgage/loan,2.0,32,South Carolina,1177,40.0,2,F
+56347,000304146_01,Female,,29500.0,Widowed,,Homeowner free and clear,1.0,78,New Jersey,2059,3.0,3,F
+38933,000148949_02,Female,,0.0,Married,,Homeowner free and clear,1.0,79,Kentucky,935,20.0,4,F
+38929,000147075_01,Female,True,33400.0,Never married,,Rented,1.0,26,Kentucky,935,3.0,6,T
+51454,001115930_02,Female,True,10000.0,Married,,Homeowner with mortgage/loan,1.0,34,Mississippi,671,70.0,1,F
+63437,001107359_17,Female,True,16000.0,Never married,,Homeowner with mortgage/loan,3.0,55,New York,4431,140.0,6,F
+71401,001184243_05,Male,True,30000.0,Married,,Homeowner free and clear,3.0,32,Ohio,2614,130.0,3,F
+97081,001244521_01,Female,False,1700.0,Never married,,,,22,Washington,1681,,5,
+79291,000388533_02,Male,True,36000.0,Never married,,Rented,2.0,22,South Carolina,1177,10.0,3,T
+56832,000546341_01,Male,True,42000.0,Never married,,Homeowner with mortgage/loan,1.0,58,New Jersey,2059,120.0,4,F
+72570,000479675_02,Female,,13100.0,Divorced/Separated,,Homeowner free and clear,2.0,32,Oklahoma,901,30.0,1,F
+14529,001209979_02,Male,,0.0,Married,,Homeowner with mortgage/loan,4.0,51,California,8962,100.0,3,F
+98651,000534817_01,Female,True,26000.0,Divorced/Separated,,Rented,1.0,58,Wisconsin,1305,40.0,2,F
+69397,000345530_01,Female,True,63000.0,Married,,Homeowner with mortgage/loan,2.0,26,Ohio,2614,3.0,5,T
+47484,000719328_02,Female,,9500.0,Married,,Homeowner free and clear,2.0,81,Michigan,2269,2.0,2,F
+50047,000862052_02,Male,True,44000.0,Married,,Homeowner free and clear,1.0,46,Minnesota,1226,60.0,1,F
+68557,001418228_02,Female,True,22500.0,Never married,,Homeowner with mortgage/loan,2.0,34,North Dakota,170,1.0,1,F
+60942,000462091_02,Male,True,51000.0,Never married,,Homeowner with mortgage/loan,2.0,27,New York,4431,200.0,2,F
+46438,000180580_01,Male,True,30000.0,Divorced/Separated,,Rented,1.0,57,Michigan,2269,1.0,6,F
+18165,000985731_01,Male,True,59800.0,Never married,,Homeowner with mortgage/loan,2.0,46,Colorado,1291,120.0,1,F
+67255,001018428_02,Male,False,300.0,Never married,,Homeowner free and clear,3.0,28,North Carolina,2357,3.0,1,T
+61664,000649343_01,Female,,21800.0,Widowed,,Rented,0.0,72,New York,4431,20.0,3,F
+95994,000527689_01,Male,True,31200.0,Never married,,Homeowner with mortgage/loan,2.0,53,Washington,1681,2.0,1,F
+70766,000921741_02,Female,True,30000.0,Married,,Homeowner with mortgage/loan,4.0,39,Ohio,2614,170.0,5,T
+25125,001107561_01,Female,,5700.0,Widowed,,Rented,1.0,59,Florida,4979,3.0,2,F
+72156,001511812_02,Female,True,45100.0,Never married,,Homeowner with mortgage/loan,2.0,40,Ohio,2614,20.0,6,F
+91965,000897296_02,Female,,25800.0,Married,,Homeowner free and clear,3.0,59,Utah,665,3.0,4,F
+38669,001305246_02,Male,True,19100.0,Married,,Homeowner with mortgage/loan,4.0,56,Kansas,647,70.0,3,F
+2965,000872765_01,Male,True,47000.0,Never married,,Homeowner with mortgage/loan,1.0,38,Arizona,1534,2.0,5,F
+97852,000996238_01,Male,True,75000.0,Married,,Rented,2.0,65,West Virginia,422,3.0,1,F
+59145,000002223_01,Male,,70000.0,Married,,Homeowner with mortgage/loan,2.0,63,New York,4431,2.0,5,F
+11041,000785295_02,Female,True,30000.0,Married,,Homeowner with mortgage/loan,2.0,51,California,8962,2.0,3,F
+61156,000512804_05,Female,True,38400.0,Married,,Rented,2.0,36,New York,4431,90.0,4,F
+10483,000716072_01,Male,True,130000.0,Never married,,Rented,1.0,36,California,8962,1.0,1,T
+82944,000030096_01,Female,True,22000.0,Married,,Homeowner with mortgage/loan,2.0,43,Texas,6026,3.0,6,F
+96797,001030607_02,Male,,11300.0,Married,,Rented,0.0,59,Washington,1681,3.0,6,F
+57984,001191591_05,Male,,28300.0,Married,,Homeowner with mortgage/loan,3.0,68,New Jersey,2059,40.0,2,F
+61168,000517045_01,Female,,9110.0,Never married,,,,21,New York,4431,,5,
+16066,001396240_02,Female,,30000.0,Married,,Rented,0.0,35,California,8962,3.0,6,F
+93282,000426054_02,Male,True,33900.0,Married,,Homeowner free and clear,2.0,30,Virginia,1942,3.0,3,F
+63823,001204940_02,Female,,6100.0,Married,,Rented,1.0,68,New York,4431,40.0,2,F
+51008,000384462_02,Male,True,18500.0,Married,,Homeowner free and clear,2.0,48,Mississippi,671,3.0,2,F
+44750,000659604_02,Female,True,28000.0,Married,,Homeowner free and clear,3.0,65,Massachusetts,1642,3.0,5,F
+97135,001279311_01,Female,True,67000.0,Married,,Homeowner free and clear,5.0,57,Washington,1681,3.0,6,F
+37675,001132981_02,Female,True,5000.0,Married,,Homeowner with mortgage/loan,2.0,25,Iowa,706,60.0,6,T
+33470,001007879_02,Male,True,75000.0,Married,,Homeowner free and clear,3.0,47,Illinois,2925,40.0,2,F
+29372,001218866_01,Female,,30400.0,Widowed,,Rented,0.0,87,Georgia,2198,3.0,6,F
+55345,001499459_02,Female,,10400.0,Married,,Homeowner free and clear,3.0,70,Nevada,671,100.0,6,F
+92871,000178293_01,Female,,34950.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,70,Virginia,1942,3.0,6,F
+46487,000201266_01,Female,True,100000.0,Married,,Homeowner with mortgage/loan,2.0,50,Michigan,2269,3.0,4,F
+28460,000751979_03,Male,True,55000.0,Never married,,Homeowner free and clear,3.0,32,Georgia,2198,20.0,5,F
+10365,000700722_02,Female,True,90000.0,Married,,Occupied with no rent,1.0,36,California,8962,200.0,2,F
+96417,000798395_01,Female,True,60000.0,Never married,,Rented,0.0,30,Washington,1681,3.0,2,F
+37280,000545937_01,Male,True,85000.0,Married,,Homeowner with mortgage/loan,2.0,42,Iowa,706,2.0,4,F
+42380,000231606_01,Male,True,98000.0,Divorced/Separated,,Rented,2.0,58,Maryland,1337,3.0,4,F
+33159,000893430_02,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,45,Illinois,2925,290.0,1,F
+9397,000577078_04,Male,True,6700.0,Never married,,Homeowner free and clear,1.0,31,California,8962,150.0,4,F
+10720,000743049_02,Male,,8500.0,Never married,,Rented,1.0,43,California,8962,50.0,5,F
+92994,000249489_02,Male,True,45000.0,Married,,Homeowner with mortgage/loan,2.0,52,Virginia,1942,3.0,2,F
+84219,000253403_01,Male,True,136000.0,Married,,Homeowner free and clear,2.0,49,Texas,6026,3.0,1,F
+56435,000353291_03,Female,True,24000.0,Never married,,Homeowner with mortgage/loan,4.0,28,New Jersey,2059,40.0,6,F
+19906,000036345_05,Female,True,14900.0,Married,,Rented,4.0,66,Delaware,204,2.0,3,F
+60916,000456288_02,Male,,10550.0,Never married,,Occupied with no rent,2.0,25,New York,4431,80.0,2,F
+55099,001092049_02,Male,True,60000.0,Married,,Homeowner with mortgage/loan,4.0,52,Nevada,671,30.0,5,F
+85286,000439672_02,Male,True,40000.0,Never married,,Rented,2.0,31,Texas,6026,30.0,6,F
+61780,000676020_03,Male,True,90000.0,Married,,Homeowner free and clear,2.0,45,New York,4431,180.0,2,F
+14698,001233184_03,Female,True,6300.0,Widowed,,Homeowner with mortgage/loan,3.0,56,California,8962,2.0,2,F
+1780,000058268_02,Male,True,40000.0,Married,,Homeowner with mortgage/loan,2.0,31,Arizona,1534,3.0,1,F
+1563,000725266_01,Female,,2000.0,Married,,Rented,2.0,36,Alaska,162,80.0,6,T
+77051,000906195_02,Female,,14000.0,Married,,Homeowner with mortgage/loan,2.0,67,Pennsylvania,2997,3.0,1,F
+6384,000207014_01,Male,True,108000.0,Married,,Homeowner with mortgage/loan,2.0,61,California,8962,30.0,6,F
+74016,000685757_01,Male,,36600.0,Never married,,Homeowner with mortgage/loan,2.0,75,Oregon,952,20.0,6,F
+38453,000906725_02,Female,True,18500.0,Married,,Homeowner with mortgage/loan,2.0,68,Kansas,647,70.0,3,F
+24748,001019654_01,Male,True,37900.0,Married,,Rented,1.0,53,Florida,4979,3.0,1,T
+73987,000645345_01,Male,True,30300.0,Divorced/Separated,,Rented,2.0,35,Oregon,952,3.0,5,F
+80990,000192839_01,Female,,0.0,Married,,Homeowner free and clear,1.0,57,Tennessee,1501,3.0,4,F
+94095,000897423_02,Male,True,111400.0,Married,,Homeowner with mortgage/loan,2.0,66,Virginia,1942,3.0,4,F
+2651,000650647_01,Male,True,90000.0,Married,,Rented,2.0,38,Arizona,1534,3.0,4,F
+28399,000719811_01,Female,True,60000.0,Never married,,Rented,1.0,30,Georgia,2198,3.0,4,T
+36701,001361540_02,Male,,36000.0,Married,,Homeowner with mortgage/loan,2.0,64,Indiana,1467,40.0,2,F
+89633,001212285_01,Male,True,251200.0,Married,,Homeowner with mortgage/loan,2.0,60,Texas,6026,80.0,1,F
+38475,000949425_03,Male,True,6000.0,Never married,,Homeowner with mortgage/loan,4.0,21,Kansas,647,200.0,6,T
+3092,000966439_02,Male,True,150000.0,Married,,Homeowner with mortgage/loan,2.0,49,Arizona,1534,40.0,5,F
+17258,000187607_02,Female,,24100.0,Married,,Homeowner with mortgage/loan,2.0,74,Colorado,1291,2.0,3,F
+60160,000256724_01,Male,True,38000.0,Divorced/Separated,,Rented,0.0,67,New York,4431,2.0,5,F
+30558,000362314_01,Female,True,16000.0,Married,,Rented,2.0,37,Idaho,333,50.0,6,F
+36179,000980330_01,Female,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,59,Indiana,1467,80.0,2,F
+69587,000426997_01,Male,True,130000.0,Married,,Homeowner with mortgage/loan,2.0,57,Ohio,2614,3.0,5,F
+40565,000414977_01,Male,True,80000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,40,Louisiana,1104,2.0,4,T
+46151,000042428_02,Female,True,12000.0,Married,,Rented,2.0,41,Michigan,2269,50.0,5,T
+4547,001152741_02,Male,,33900.0,Married,,Homeowner with mortgage/loan,3.0,87,Arkansas,653,50.0,4,F
+54333,001268811_01,Female,True,58200.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,37,Nebraska,407,90.0,3,T
+74171,000885684_03,Female,True,20400.0,Never married,,Rented,1.0,27,Oregon,952,3.0,3,T
+82553,001372724_01,Female,,18700.0,Widowed,,,,87,Tennessee,1501,,3,
+86197,000599486_01,Female,True,20000.0,Married,,Rented,5.0,31,Texas,6026,3.0,5,F
+52681,000833626_01,Female,True,25000.0,Divorced/Separated,,Rented,1.0,51,Missouri,1397,20.0,4,F
+15521,001330578_02,Female,True,12000.0,Married,,Homeowner with mortgage/loan,3.0,59,California,8962,50.0,5,F
+45157,000935214_02,Female,True,36000.0,Married,,Homeowner with mortgage/loan,4.0,60,Massachusetts,1642,3.0,4,F
+68073,001400345_01,Female,True,56000.0,Married,,Homeowner free and clear,2.0,49,North Carolina,2357,4.0,5,F
+69048,000200575_01,Male,,26200.0,Married,,Homeowner with mortgage/loan,2.0,70,Ohio,2614,3.0,1,F
+75997,000508371_05,Male,True,45000.0,Married,,Homeowner with mortgage/loan,0.0,48,Pennsylvania,2997,1.0,5,F
+83000,000036749_02,Male,True,63000.0,Married,,Homeowner with mortgage/loan,2.0,35,Texas,6026,40.0,4,T
+38505,001017882_02,Male,,26200.0,Married,,Homeowner with mortgage/loan,1.0,65,Kansas,647,120.0,6,F
+9352,000572643_02,Male,True,68000.0,Married,,Homeowner with mortgage/loan,2.0,53,California,8962,50.0,5,F
+90817,001421332_01,Female,,10100.0,Widowed,,Homeowner free and clear,2.0,69,Texas,6026,3.0,3,F
+77886,001225784_01,Female,True,29200.0,Divorced/Separated,,Homeowner free and clear,2.0,42,Pennsylvania,2997,10.0,5,F
+12484,000958426_04,Male,True,1700.0,Never married,,Homeowner with mortgage/loan,2.0,32,California,8962,90.0,5,F
+25385,001157097_02,Male,True,32000.0,Married,,Homeowner with mortgage/loan,1.0,38,Florida,4979,3.0,4,F
+67780,001262746_01,Female,True,43000.0,Married,,Rented,2.0,30,North Carolina,2357,3.0,5,F
+21556,000266106_01,Female,,0.0,Married,,Homeowner with mortgage/loan,3.0,48,Florida,4979,40.0,2,F
+67459,001112278_01,Male,True,41900.0,Married,,Homeowner free and clear,4.0,65,North Carolina,2357,240.0,4,F
+98229,000171743_01,Male,True,50000.0,Married,,Rented,2.0,34,Wisconsin,1305,3.0,4,F
+45912,001417294_02,Male,True,70000.0,Married,,Homeowner with mortgage/loan,2.0,46,Massachusetts,1642,70.0,1,F
+36048,000851522_06,Female,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,4.0,49,Indiana,1467,40.0,6,F
+27687,000377773_04,Male,True,13400.0,Married,,Homeowner with mortgage/loan,5.0,27,Georgia,2198,3.0,5,F
+35062,000136585_01,Female,,6000.0,Married,,Homeowner free and clear,2.0,73,Indiana,1467,50.0,4,F
+74070,000762541_02,Male,True,46300.0,Married,,Rented,2.0,43,Oregon,952,3.0,5,F
+78859,001309126_01,Female,,0.0,Divorced/Separated,,Rented,0.0,59,Rhode Island,220,1.0,4,F
+59054,001259490_04,Female,True,36000.0,Divorced/Separated,,Rented,3.0,43,New Mexico,404,100.0,6,T
+16403,001442520_07,Male,True,17700.0,Married,,Homeowner free and clear,3.0,44,California,8962,90.0,4,F
+83845,000190297_02,Female,,15800.0,Widowed,,Homeowner free and clear,3.0,78,Texas,6026,3.0,6,F
+39542,000859612_01,Male,True,80500.0,Married,,Homeowner free and clear,2.0,64,Kentucky,935,100.0,3,F
+67285,001032537_02,Male,,5000.0,Never married,,Homeowner with mortgage/loan,2.0,35,North Carolina,2357,3.0,5,F
+64615,001387070_01,Male,True,13400.0,Never married,,Rented,0.0,31,New York,4431,3.0,3,F
+90748,001412042_01,Female,True,130000.0,Never married,,Homeowner with mortgage/loan,2.0,45,Texas,6026,3.0,4,F
+98167,000113405_02,Male,True,195800.0,Married,,Homeowner with mortgage/loan,3.0,61,Wisconsin,1305,3.0,5,F
+82285,001157691_05,Female,,12000.0,Divorced/Separated,,Occupied with no rent,1.0,65,Tennessee,1501,10.0,6,F
+34890,000007324_02,Female,,12300.0,Married,,Homeowner with mortgage/loan,2.0,70,Indiana,1467,50.0,6,F
+59156,000005333_01,Male,True,54000.0,Never married,,Rented,2.0,32,New York,4431,3.0,5,F
+2830,000779405_01,Female,True,110000.0,Married,,Homeowner with mortgage/loan,2.0,49,Arizona,1534,3.0,5,F
+15986,001387490_02,Female,True,24000.0,Never married,,Rented,2.0,55,California,8962,3.0,6,F
+89331,001154114_03,Male,True,6000.0,Never married,,Homeowner with mortgage/loan,2.0,21,Texas,6026,2.0,3,F
+77673,001147457_02,Female,True,54100.0,Married,,Homeowner with mortgage/loan,3.0,45,Pennsylvania,2997,10.0,5,F
+32419,000590516_02,Female,True,63000.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,52,Illinois,2925,60.0,1,F
+38916,000128849_01,Female,,27000.0,Widowed,,Rented,2.0,77,Kentucky,935,130.0,4,F
+4379,000902929_01,Male,True,40000.0,Married,,Rented,2.0,34,Arkansas,653,3.0,4,T
+63504,001121669_01,Male,,18000.0,Never married,,,,75,New York,4431,,3,
+51314,000886662_01,Male,True,60000.0,Married,,Occupied with no rent,3.0,46,Mississippi,671,20.0,1,F
+12175,000920276_01,Male,True,176500.0,Never married,,Homeowner free and clear,1.0,52,California,8962,30.0,6,F
+11289,000813061_02,Male,True,200000.0,Married,,Rented,0.0,43,California,8962,30.0,1,F
+42545,000373942_01,Female,True,180000.0,Married,,Homeowner with mortgage/loan,2.0,61,Maryland,1337,2.0,2,F
+76828,000833971_01,Female,,32200.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,63,Pennsylvania,2997,60.0,4,F
+51395,001025048_02,Male,True,50000.0,Married,,Rented,2.0,28,Mississippi,671,1.0,1,F
+16907,001505466_06,Male,True,11000.0,Married,,Homeowner free and clear,4.0,29,California,8962,50.0,2,F
+60151,000253620_03,Female,True,8000.0,Never married,,Homeowner free and clear,3.0,23,New York,4431,200.0,5,F
+69141,000237763_02,Female,True,36000.0,Married,,Homeowner with mortgage/loan,2.0,62,Ohio,2614,3.0,6,F
+48576,001253012_02,Male,True,40000.0,Married,,Homeowner with mortgage/loan,2.0,39,Michigan,2269,2.0,2,F
+33894,001163136_02,Female,True,14000.0,Married,,Homeowner with mortgage/loan,2.0,45,Illinois,2925,2.0,4,F
+98707,000574737_01,Male,True,35000.0,Married,,Homeowner with mortgage/loan,3.0,46,Wisconsin,1305,460.0,3,F
+75226,000205805_01,Male,True,85000.0,Married,,Homeowner with mortgage/loan,2.0,32,Pennsylvania,2997,30.0,3,T
+26985,000042611_02,Female,True,52000.0,Married,,Homeowner with mortgage/loan,4.0,46,Georgia,2198,3.0,6,F
+16845,001497853_01,Male,,23800.0,Married,,Homeowner with mortgage/loan,2.0,70,California,8962,10.0,6,F
+75140,000178045_01,Male,,0.0,Never married,,,,34,Pennsylvania,2997,,4,
+23129,000642365_05,Male,,9600.0,Widowed,,Homeowner with mortgage/loan,4.0,84,Florida,4979,3.0,1,F
+8984,000529343_11,Male,True,28000.0,Married,,Homeowner free and clear,5.0,30,California,8962,70.0,1,F
+71931,001406561_01,Female,True,23000.0,Never married,,Rented,1.0,24,Ohio,2614,3.0,1,T
+13220,001050876_01,Female,,1800.0,Never married,,Rented,0.0,23,California,8962,2.0,4,T
+35569,000490702_02,Male,True,70000.0,Married,,Homeowner with mortgage/loan,2.0,42,Indiana,1467,3.0,6,F
+10922,000770598_01,Female,True,26000.0,Divorced/Separated,,Homeowner with mortgage/loan,3.0,48,California,8962,2.0,1,F
+48033,000977181_02,Female,,11600.0,Married,,Homeowner free and clear,1.0,77,Michigan,2269,50.0,4,F
+9686,000610993_02,Male,True,185000.0,Married,,Homeowner with mortgage/loan,2.0,51,California,8962,2.0,6,F
+99567,001322219_02,Female,True,52040.0,Never married,,Homeowner with mortgage/loan,3.0,26,Wisconsin,1305,50.0,4,F
+70536,000831813_01,Male,,18400.0,Divorced/Separated,,Homeowner free and clear,1.0,79,Ohio,2614,30.0,2,F
+83511,000129745_02,Female,,200.0,Married,,Homeowner with mortgage/loan,2.0,42,Texas,6026,4.0,2,F
+84412,000285834_02,Female,,2200.0,Married,,Homeowner with mortgage/loan,2.0,63,Texas,6026,150.0,3,F
+35484,000434819_02,Male,,13300.0,Divorced/Separated,,Homeowner free and clear,3.0,68,Indiana,1467,20.0,5,F
+57325,000829334_02,Male,True,150100.0,Married,,Homeowner free and clear,2.0,63,New Jersey,2059,50.0,2,F
+85188,000422936_05,Female,,8800.0,Never married,,Homeowner with mortgage/loan,2.0,28,Texas,6026,3.0,6,F
+36297,001073831_01,Male,True,35000.0,Never married,,Homeowner with mortgage/loan,2.0,35,Indiana,1467,20.0,4,F
+5803,000134987_01,Female,True,107000.0,Married,,Homeowner with mortgage/loan,3.0,39,California,8962,10.0,5,F
+85956,000557241_02,Male,True,35300.0,Married,,Homeowner free and clear,2.0,61,Texas,6026,60.0,1,F
+9412,000578223_01,Male,True,17000.0,Never married,,Homeowner with mortgage/loan,3.0,37,California,8962,50.0,2,F
+19199,000553667_01,Male,,50300.0,Married,,Rented,2.0,72,Connecticut,832,80.0,6,F
+5993,000158556_03,Male,True,15000.0,Never married,,Homeowner with mortgage/loan,4.0,30,California,8962,50.0,1,T
+11268,000810764_05,Female,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,86,California,8962,30.0,4,T
+38437,000875993_02,Female,True,55000.0,Married,,Homeowner with mortgage/loan,2.0,56,Kansas,647,3.0,1,F
+13120,001039533_01,Male,,2200.0,Divorced/Separated,,Rented,0.0,94,California,8962,3.0,6,F
+14818,001247020_02,Female,True,23000.0,Never married,,Homeowner with mortgage/loan,2.0,29,California,8962,30.0,5,F
+24982,001073949_02,Female,,9000.0,Divorced/Separated,,Rented,1.0,79,Florida,4979,3.0,1,F
+63188,001043135_02,Female,,0.0,Married,,Homeowner free and clear,2.0,44,New York,4431,60.0,2,F
+50623,001395893_02,Female,True,25000.0,Married,,Homeowner with mortgage/loan,2.0,32,Minnesota,1226,20.0,3,F
+34295,001304904_01,Female,True,23400.0,Never married,,Rented,0.0,25,Illinois,2925,140.0,4,F
+10944,000772195_02,Male,True,22000.0,Married,,Rented,2.0,38,California,8962,2.0,6,F
+35240,000261183_02,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,52,Indiana,1467,30.0,2,F
+54321,001248658_01,Female,True,33000.0,Never married,,Homeowner with mortgage/loan,1.0,63,Nebraska,407,100.0,6,F
+56619,000440811_01,Male,True,80000.0,Never married,,Homeowner with mortgage/loan,1.0,34,New Jersey,2059,10.0,4,F
+45870,001382514_02,Female,True,70000.0,Married,,Rented,1.0,30,Massachusetts,1642,100.0,5,F
+84839,000359946_01,Female,,0.0,Married,,Homeowner with mortgage/loan,4.0,59,Texas,6026,30.0,6,F
+85558,000487832_02,Male,True,29000.0,Married,,Homeowner with mortgage/loan,2.0,71,Texas,6026,3.0,3,F
+17387,000286187_02,Female,,0.0,Never married,,Rented,0.0,60,Colorado,1291,240.0,2,F
+12010,000902470_01,Female,True,60000.0,Married,,Rented,3.0,41,California,8962,2.0,4,F
+4145,000527357_01,Female,True,36000.0,Divorced/Separated,,Rented,2.0,35,Arkansas,653,70.0,2,T
+62049,000741638_02,Male,True,39000.0,Never married,,Rented,1.0,33,New York,4431,2.0,5,F
+31283,000152758_03,Female,,0.0,Never married,,Rented,1.0,26,Illinois,2925,30.0,6,F
+26924,000008864_03,Male,,36000.0,Never married,,Homeowner with mortgage/loan,4.0,29,Georgia,2198,140.0,6,F
+98787,000640910_02,Male,True,30000.0,Married,,Homeowner with mortgage/loan,5.0,51,Wisconsin,1305,40.0,5,F
+85505,000478453_03,Female,,0.0,Divorced/Separated,,Rented,2.0,29,Texas,6026,2.0,5,F
+80638,001065251_04,Male,True,25000.0,Never married,,Rented,1.0,26,South Dakota,188,1.0,3,T
+92226,001305620_02,Male,True,35000.0,Never married,,Homeowner with mortgage/loan,2.0,33,Utah,665,20.0,2,F
+82737,001490875_04,Male,True,26000.0,Never married,,Rented,1.0,33,Tennessee,1501,3.0,3,F
+84641,000328118_02,Female,True,28000.0,Widowed,,Rented,2.0,46,Texas,6026,3.0,6,T
+94359,001037110_01,Female,True,7600.0,Married,,Rented,1.0,114,Virginia,1942,3.0,3,F
+21364,000223610_01,Male,True,30000.0,Divorced/Separated,,Homeowner with mortgage/loan,3.0,46,Florida,4979,3.0,6,F
+58679,000325622_03,Male,True,35000.0,Never married,,Homeowner free and clear,1.0,41,New Mexico,404,30.0,2,F
+73691,000326449_01,Female,True,11000.0,Never married,,Rented,1.0,31,Oregon,952,3.0,5,T
+50051,000869045_01,Male,True,36200.0,Divorced/Separated,,Homeowner free and clear,0.0,54,Minnesota,1226,190.0,5,F
+6724,000248131_02,Male,False,0.0,Never married,,Rented,2.0,23,California,8962,3.0,3,F
+61501,000611233_04,Male,True,15000.0,Never married,,Rented,1.0,28,New York,4431,20.0,5,F
+21183,000186704_04,Male,,0.0,Never married,,Homeowner with mortgage/loan,4.0,26,Florida,4979,3.0,1,F
+24656,000991664_03,Female,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,38,Florida,4979,3.0,3,F
+87510,000836509_01,Male,,0.0,Divorced/Separated,,,,41,Texas,6026,,2,
+81946,000918731_02,Male,False,12000.0,Divorced/Separated,,Homeowner free and clear,1.0,52,Tennessee,1501,30.0,1,F
+23965,000831671_01,Female,True,7000.0,Never married,,Occupied with no rent,2.0,44,Florida,4979,3.0,3,F
+66748,000778995_02,Male,True,16200.0,Never married,,Rented,2.0,23,North Carolina,2357,3.0,5,T
+34197,001272878_01,Female,True,18000.0,Never married,,Rented,0.0,38,Illinois,2925,200.0,2,T
+68923,000149226_03,Female,True,8000.0,Never married,,Occupied with no rent,1.0,24,Ohio,2614,80.0,2,F
+89277,001145927_02,Male,False,20000.0,Married,,Rented,2.0,32,Texas,6026,3.0,3,F
+50823,000105404_03,Male,,0.0,Never married,,Rented,4.0,26,Mississippi,671,3.0,3,T
+76301,000620688_02,Female,True,12600.0,Married,,Homeowner free and clear,1.0,35,Pennsylvania,2997,90.0,1,F
+61172,000518628_01,Male,True,35000.0,Divorced/Separated,,Homeowner free and clear,1.0,43,New York,4431,3.0,1,F
+61460,000603911_01,Male,True,72004.0,Married,,Rented,1.0,37,New York,4431,20.0,4,F
+3117,000982048_02,Male,,0.0,Never married,,Rented,2.0,40,Arizona,1534,3.0,2,F
+23021,000619079_02,Female,,0.0,Married,,Rented,1.0,51,Florida,4979,3.0,1,F
+12663,000980305_03,Male,False,3600.0,Never married,,Homeowner with mortgage/loan,3.0,24,California,8962,10.0,3,F
+42553,000383978_01,Male,True,80000.0,Married,,Rented,1.0,35,Maryland,1337,30.0,2,F
+96124,000624649_01,Female,True,23000.0,Married,,Homeowner with mortgage/loan,3.0,49,Washington,1681,50.0,2,F
+93845,000758336_07,Male,True,25000.0,Never married,,Homeowner with mortgage/loan,2.0,22,Virginia,1942,230.0,5,F
+81418,000510200_01,Male,True,32000.0,Married,,Homeowner with mortgage/loan,3.0,50,Tennessee,1501,2.0,4,F
+31828,000361456_01,Female,,10500.0,Married,,Rented,1.0,41,Illinois,2925,50.0,5,F
+25236,001129317_02,Male,,0.0,Married,,Homeowner with mortgage/loan,4.0,95,Florida,4979,3.0,3,F
+1992,000216126_01,Male,True,57000.0,Married,,Homeowner with mortgage/loan,2.0,58,Arizona,1534,20.0,6,F
+24526,000959229_03,Female,,0.0,Never married,,Rented,6.0,42,Florida,4979,3.0,3,T
+47171,000569467_02,Male,,0.0,Never married,,Rented,0.0,25,Michigan,2269,3.0,3,T
+25252,001131661_05,Female,,2100.0,Married,,Homeowner with mortgage/loan,2.0,64,Florida,4979,3.0,1,F
+88725,001046816_03,Male,True,30000.0,Never married,,Homeowner with mortgage/loan,3.0,31,Texas,6026,3.0,3,F
+17045,000002767_07,Female,True,32000.0,Divorced/Separated,,Homeowner with mortgage/loan,5.0,63,Colorado,1291,70.0,4,F
+75437,000287944_02,Male,True,40000.0,Married,,Rented,2.0,51,Pennsylvania,2997,50.0,1,F
+3718,001444088_01,Male,,12000.0,Never married,,,,25,Arizona,1534,,3,
+56287,000273078_02,Female,,0.0,Married,,Rented,1.0,21,New Jersey,2059,40.0,4,F
+78051,001290197_01,Female,True,10000.0,Never married,,Rented,2.0,24,Pennsylvania,2997,70.0,3,F
+1797,000075904_01,Female,,0.0,Divorced/Separated,,Rented,2.0,48,Arizona,1534,3.0,2,F
+3130,000990749_02,Male,,4000.0,Married,,Rented,1.0,67,Arizona,1534,60.0,3,F
+8542,000474529_02,Female,True,17300.0,Never married,,Occupied with no rent,2.0,21,California,8962,100.0,2,F
+95638,000296530_01,Female,True,7000.0,Never married,,Rented,2.0,41,Washington,1681,3.0,1,F
+24471,000939299_01,Female,True,40000.0,Divorced/Separated,,Rented,1.0,39,Florida,4979,3.0,3,T
+73890,000545994_01,Male,,1700.0,Widowed,,,,47,Oregon,952,,2,
+75706,000393353_02,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,43,Pennsylvania,2997,170.0,4,F
+8389,000455357_02,Male,True,12000.0,Never married,,Rented,2.0,23,California,8962,30.0,6,F
+62731,000923379_01,Female,True,24000.0,Never married,,Rented,0.0,28,New York,4431,50.0,1,F
+21698,000297489_02,Male,True,8000.0,Never married,,Rented,1.0,26,Florida,4979,3.0,6,T
+41616,001509129_01,Male,,0.0,Divorced/Separated,,,,28,Louisiana,1104,,4,
+90352,001337745_04,Female,False,570.0,Never married,,Rented,0.0,38,Texas,6026,3.0,3,F
+10410,000706289_03,Male,,12000.0,Never married,,Homeowner with mortgage/loan,0.0,53,California,8962,130.0,3,F
+90402,001347386_01,Female,,0.0,Never married,,Rented,0.0,33,Texas,6026,3.0,1,F
+66247,000536236_02,Female,,2600.0,Married,,Homeowner free and clear,3.0,62,North Carolina,2357,3.0,2,F
+26,000025147_02,Female,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,5.0,57,Alabama,1047,2.0,2,F
+50317,001103371_01,Male,,600.0,Never married,,,,40,Minnesota,1226,,3,
+69384,000341288_03,Female,True,5000.0,Never married,,Homeowner with mortgage/loan,5.0,27,Ohio,2614,50.0,2,F
+40659,000503820_02,Female,True,56000.0,Married,,Homeowner free and clear,1.0,43,Louisiana,1104,3.0,1,F
+57316,000825322_02,Female,True,5500.0,Never married,,Rented,0.0,24,New Jersey,2059,70.0,4,F
+38008,000167057_06,Male,,0.0,Married,,Homeowner with mortgage/loan,2.0,68,Kansas,647,110.0,3,F
+90545,001372951_03,Male,True,41000.0,Never married,,Homeowner with mortgage/loan,2.0,49,Texas,6026,40.0,5,F
+55960,000108776_03,Female,True,10000.0,Never married,,Rented,2.0,29,New Jersey,2059,2.0,3,F
+48835,001385779_03,Female,True,5000.0,Divorced/Separated,,Rented,2.0,26,Michigan,2269,60.0,1,F
+33678,001083074_01,Male,True,23000.0,Never married,,Homeowner free and clear,1.0,64,Illinois,2925,140.0,4,F
+21680,000293023_01,Male,True,30000.0,Never married,,Rented,2.0,46,Florida,4979,3.0,6,F
+90523,001368362_02,Male,True,45000.0,Married,,Homeowner free and clear,2.0,54,Texas,6026,40.0,1,F
+90736,001410656_02,Male,True,15000.0,Never married,,Rented,2.0,23,Texas,6026,3.0,1,T
+69306,000303682_01,Male,True,50000.0,Married,,Homeowner with mortgage/loan,0.0,30,Ohio,2614,90.0,4,F
+89871,001252330_01,Female,True,9300.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,32,Texas,6026,3.0,6,F
+65451,000144167_10,Female,False,0.0,Married,,Homeowner with mortgage/loan,4.0,23,North Carolina,2357,3.0,5,F
+63677,001166065_07,Female,True,10000.0,Never married,,Rented,0.0,29,New York,4431,20.0,2,F
+1727,000023575_02,Male,True,25000.0,Never married,,Homeowner with mortgage/loan,1.0,25,Arizona,1534,20.0,2,F
+24505,000951249_01,Female,True,36000.0,Never married,,Homeowner with mortgage/loan,4.0,40,Florida,4979,3.0,1,F
+40707,000567039_02,Male,,0.0,Never married,,Homeowner with mortgage/loan,2.0,33,Louisiana,1104,3.0,6,F
+85628,000499673_01,Male,True,10000.0,Married,,Homeowner with mortgage/loan,3.0,25,Texas,6026,90.0,5,F
+3792,001501247_01,Female,,50000.0,Married,,Homeowner with mortgage/loan,2.0,60,Arizona,1534,30.0,1,F
+89131,001118831_02,Male,True,19000.0,Married,,Rented,1.0,40,Texas,6026,2.0,5,F
+21361,000223498_02,Male,True,10000.0,Married,,Rented,1.0,30,Florida,4979,3.0,5,F
+90735,001410295_02,Female,True,2100.0,Married,,Homeowner free and clear,3.0,45,Texas,6026,100.0,5,F
+5021,000031832_07,Female,,0.0,Never married,,Rented,2.0,47,California,8962,120.0,2,T
+74728,000020565_01,Male,,5000.0,Never married,,,,22,Pennsylvania,2997,,3,
+26546,001434077_01,Male,True,80000.0,Divorced/Separated,,Rented,0.0,56,Florida,4979,3.0,6,T
+89767,001236207_01,Male,,0.0,Never married,,,,28,Texas,6026,,6,
+24476,000941662_02,Male,True,250.0,Never married,,Rented,2.0,25,Florida,4979,3.0,4,F
+25036,001086114_05,Female,True,1900.0,Never married,,Homeowner with mortgage/loan,1.0,25,Florida,4979,3.0,3,T
+42912,000704553_01,Male,True,38000.0,Divorced/Separated,,Rented,2.0,52,Maryland,1337,3.0,3,T
+30808,001219634_01,Female,True,68000.0,Married,,Homeowner with mortgage/loan,2.0,35,Idaho,333,50.0,1,F
+99093,000892062_01,Male,,0.0,Never married,,,,22,Wisconsin,1305,,1,
+70840,000956106_03,Male,True,4400.0,Never married,,Homeowner free and clear,1.0,26,Ohio,2614,80.0,4,F
+5431,000085608_01,Male,,0.0,Never married,,,,28,California,8962,,6,
+28088,000566838_03,Male,True,30000.0,Never married,,Homeowner free and clear,6.0,21,Georgia,2198,40.0,2,F
+62880,000966469_01,Female,True,13000.0,Never married,,Homeowner with mortgage/loan,1.0,66,New York,4431,180.0,1,F
+40224,000086145_01,Female,True,5700.0,Never married,,,,22,Louisiana,1104,,2,
+84446,000291252_03,Male,,0.0,Never married,,Homeowner free and clear,2.0,25,Texas,6026,2.0,6,F
+76234,000596923_01,Male,False,0.0,Divorced/Separated,,Homeowner free and clear,2.0,59,Pennsylvania,2997,3.0,1,F
+37871,001459530_01,Female,True,32800.0,Married,,Rented,4.0,41,Iowa,706,20.0,5,F
+94807,001288732_01,Female,False,12300.0,Widowed,,Homeowner with mortgage/loan,2.0,53,Virginia,1942,130.0,2,F
+91124,001473474_01,Female,,0.0,Married,,Rented,2.0,41,Texas,6026,3.0,2,F
+92908,000197672_01,Female,,23900.0,Widowed,,Rented,0.0,55,Virginia,1942,140.0,6,F
+94228,000967375_01,Male,True,30000.0,Never married,,Rented,2.0,23,Virginia,1942,1.0,4,F
+69327,000314233_02,Male,True,17000.0,Divorced/Separated,,Rented,3.0,50,Ohio,2614,3.0,1,F
+11469,000834976_06,Female,,0.0,Widowed,,Rented,2.0,62,California,8962,20.0,5,F
+56303,000278343_03,Male,True,12500.0,Never married,,Homeowner with mortgage/loan,5.0,28,New Jersey,2059,2.0,1,F
+62732,000923602_01,Male,True,32000.0,Never married,,Rented,0.0,34,New York,4431,40.0,1,T
+32404,000585013_04,Male,True,25000.0,Married,,Rented,3.0,28,Illinois,2925,20.0,2,F
+41341,001220521_03,Male,,0.0,Never married,,Homeowner with mortgage/loan,2.0,22,Louisiana,1104,30.0,6,F
+20883,000119159_03,Male,,0.0,Never married,,Homeowner free and clear,3.0,41,Florida,4979,3.0,6,F
+78987,000088152_01,Male,,0.0,Divorced/Separated,,,,45,South Carolina,1177,,1,
+19551,001048778_01,Male,True,13600.0,Married,,Rented,4.0,35,Connecticut,832,100.0,5,F
+9000,000530250_02,Male,True,50000.0,Married,,Rented,3.0,51,California,8962,20.0,1,T
+83770,000175854_01,Female,,4000.0,Married,,Homeowner free and clear,2.0,36,Texas,6026,3.0,4,F
+32668,000695159_05,Female,,0.0,Married,,Homeowner with mortgage/loan,3.0,64,Illinois,2925,50.0,1,F
+18651,001413282_01,Male,,0.0,Never married,,,,40,Colorado,1291,,6,
+4912,000018952_04,Male,True,23000.0,Married,,Rented,1.0,41,California,8962,20.0,2,F
+81305,000433425_04,Male,True,12800.0,Never married,,Rented,1.0,22,Tennessee,1501,2.0,6,T
+23643,000758559_02,Male,True,50000.0,Never married,,Homeowner free and clear,1.0,27,Florida,4979,3.0,5,F
+90097,001297594_02,Female,,0.0,Married,,Rented,3.0,54,Texas,6026,50.0,4,F
+29073,001056476_01,Male,True,55000.0,Married,,Rented,2.0,23,Georgia,2198,3.0,5,F
+3323,001140013_06,Female,,14000.0,Married,,Rented,4.0,22,Arizona,1534,3.0,6,F
+84874,000366111_01,Female,True,11000.0,Never married,,Rented,2.0,23,Texas,6026,3.0,1,F
+82964,000033332_01,Female,True,42000.0,Married,,Rented,2.0,42,Texas,6026,30.0,3,F
+74204,000917331_01,Female,,3600.0,Married,,Rented,2.0,42,Oregon,952,50.0,5,F
+65494,000160707_01,Male,,3500.0,Never married,,Rented,0.0,28,North Carolina,2357,3.0,5,F
+35391,000363644_02,Male,False,3300.0,Never married,,Rented,3.0,24,Indiana,1467,3.0,5,F
+86427,000639389_03,Male,True,5800.0,Never married,,Rented,1.0,26,Texas,6026,30.0,3,F
+83618,000146989_01,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,29,Texas,6026,3.0,5,F
+617,000663686_01,Male,False,30000.0,Divorced/Separated,,Rented,1.0,42,Alabama,1047,3.0,6,F
+41702,000193602_01,Male,,5500.0,Married,,Homeowner free and clear,2.0,59,Maine,325,3.0,6,F
+43263,000991310_01,Male,True,70000.0,Married,,Homeowner free and clear,2.0,39,Maryland,1337,20.0,2,F
+53217,001261324_02,Female,,13800.0,Widowed,,Rented,0.0,53,Missouri,1397,3.0,2,T
+55769,000008867_01,Female,,0.0,Divorced/Separated,,Rented,2.0,37,New Jersey,2059,80.0,5,T
+9420,000579677_03,Female,,0.0,Widowed,,Homeowner with mortgage/loan,3.0,49,California,8962,30.0,6,F
+7936,000399564_02,Female,,0.0,Married,,Rented,2.0,56,California,8962,4.0,4,F
+10580,000727636_05,Female,True,30000.0,Never married,,Rented,4.0,35,California,8962,20.0,5,F
+18554,001328281_02,Female,False,34300.0,Divorced/Separated,,Rented,2.0,56,Colorado,1291,2.0,4,T
+51055,000470225_02,Male,True,10000.0,Never married,,Rented,3.0,30,Mississippi,671,3.0,5,F
+95509,000210833_01,Female,False,10530.0,Never married,,Rented,1.0,43,Washington,1681,80.0,5,T
+93576,000599884_02,Male,True,25000.0,Married,,Rented,2.0,38,Virginia,1942,3.0,2,F
+24254,000896291_02,Male,,7300.0,Divorced/Separated,,Occupied with no rent,1.0,64,Florida,4979,2.0,5,F
+96098,000604651_01,Female,True,1600.0,Never married,,Rented,1.0,51,Washington,1681,3.0,3,F
+59026,001209774_01,Male,True,1000.0,Married,,Rented,1.0,45,New Mexico,404,3.0,2,T
+21514,000255083_01,Male,True,20000.0,Never married,,Rented,1.0,46,Florida,4979,3.0,4,F
+56683,000471721_03,Male,True,8000.0,Never married,,Homeowner free and clear,1.0,100,New Jersey,2059,70.0,5,F
+53213,001256852_02,Male,True,30000.0,Married,,Homeowner with mortgage/loan,2.0,46,Missouri,1397,100.0,2,T
+4951,000024249_04,Female,True,50500.0,Never married,,Homeowner with mortgage/loan,6.0,36,California,8962,10.0,6,F
+32927,000805693_01,Male,True,37000.0,Married,,Homeowner with mortgage/loan,3.0,54,Illinois,2925,100.0,4,F
+79440,000539345_02,Male,,20000.0,Never married,,Homeowner free and clear,2.0,49,South Carolina,1177,3.0,6,F
+25679,001228790_01,Female,True,20000.0,Never married,,Rented,1.0,23,Florida,4979,3.0,6,F
+21868,000339429_01,Male,True,25000.0,Married,,Homeowner free and clear,2.0,57,Florida,4979,2.0,5,F
+64433,001349326_03,Male,True,15600.0,Married,,Rented,0.0,50,New York,4431,2.0,6,F
+72414,000304121_01,Male,,3500.0,Divorced/Separated,,,,31,Oklahoma,901,,3,
+54946,000838638_02,Male,True,67700.0,Never married,,Homeowner with mortgage/loan,2.0,32,Nevada,671,50.0,6,F
+75443,000290664_01,Male,True,40000.0,Never married,,Rented,0.0,31,Pennsylvania,2997,3.0,3,T
+90268,001323219_01,Male,True,25000.0,Divorced/Separated,,Homeowner free and clear,2.0,46,Texas,6026,3.0,3,F
+17220,000157199_03,Female,True,10400.0,Never married,,Homeowner with mortgage/loan,3.0,27,Colorado,1291,40.0,3,F
+86274,000612698_02,Female,,0.0,Married,,Homeowner with mortgage/loan,3.0,56,Texas,6026,50.0,3,F
+65568,000194965_02,Female,True,2000.0,Married,,Homeowner with mortgage/loan,1.0,42,North Carolina,2357,3.0,5,F
+90332,001334846_03,Male,False,9600.0,Never married,,Rented,1.0,28,Texas,6026,3.0,3,F
+50875,000191155_01,Male,True,95000.0,Never married,,Occupied with no rent,1.0,43,Mississippi,671,70.0,1,F
+61291,000554146_01,Female,,0.0,Never married,,Rented,1.0,34,New York,4431,3.0,2,F
+41687,000142469_03,Female,False,900.0,Never married,,Homeowner with mortgage/loan,1.0,25,Maine,325,3.0,3,F
+97205,001335997_01,Male,True,34400.0,Never married,,Rented,1.0,46,Washington,1681,3.0,5,F
+84148,000238856_03,Female,True,14800.0,Divorced/Separated,,Homeowner with mortgage/loan,3.0,45,Texas,6026,3.0,1,F
+64910,001464373_01,Male,True,20800.0,Married,,Rented,0.0,59,New York,4431,30.0,1,F
+78670,000320492_01,Female,True,26000.0,Never married,,Homeowner with mortgage/loan,4.0,33,Rhode Island,220,3.0,6,F
+41482,001363945_01,Male,True,14000.0,Married,,Rented,2.0,35,Louisiana,1104,60.0,1,F
+12847,001005808_04,Male,False,2000.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,54,California,8962,2.0,6,F
+23594,000748519_03,Female,True,40000.0,Divorced/Separated,,Homeowner free and clear,2.0,49,Florida,4979,3.0,4,F
+7705,000371646_01,Female,True,24500.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,63,California,8962,130.0,1,F
+20072,000859837_01,Female,True,56000.0,Married,,Homeowner with mortgage/loan,2.0,54,Delaware,204,2.0,1,F
+84982,000385988_01,Male,True,35000.0,Never married,,Rented,1.0,38,Texas,6026,3.0,2,T
+83145,000059981_02,Male,True,2400.0,Never married,,Homeowner free and clear,5.0,23,Texas,6026,3.0,5,F
+61415,000592051_01,Male,True,13200.0,Never married,,Rented,0.0,44,New York,4431,30.0,1,F
+75251,000215762_02,Female,True,24000.0,Married,,Homeowner free and clear,1.0,57,Pennsylvania,2997,150.0,5,F
+36299,001074865_01,Male,True,12000.0,Married,,Homeowner with mortgage/loan,2.0,40,Indiana,1467,3.0,4,F
+36616,001294064_01,Female,True,28000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,59,Indiana,1467,3.0,4,F
+74509,001302622_02,Female,True,4800.0,Never married,,Rented,2.0,28,Oregon,952,3.0,1,F
+15251,001297929_03,Male,True,36000.0,Never married,,Homeowner free and clear,3.0,43,California,8962,3.0,2,F
+89628,001211618_03,Female,,7200.0,Never married,,Homeowner free and clear,2.0,45,Texas,6026,2.0,2,F
+20767,000091952_03,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,44,Florida,4979,3.0,5,F
+5685,000120046_03,Female,True,15000.0,Never married,,Homeowner with mortgage/loan,6.0,26,California,8962,50.0,3,F
+26773,001490871_02,Female,,0.0,Married,,Homeowner free and clear,1.0,69,Florida,4979,3.0,2,F
+40370,000247470_01,Male,True,32000.0,Married,,Occupied with no rent,2.0,38,Louisiana,1104,150.0,4,T
+84431,000288492_01,Female,,0.0,Widowed,,Rented,1.0,46,Texas,6026,3.0,4,F
+7468,000338620_02,Male,False,10000.0,Married,,Homeowner with mortgage/loan,2.0,33,California,8962,2.0,5,F
+41170,001043610_02,Male,False,0.0,Married,,Homeowner free and clear,0.0,46,Louisiana,1104,3.0,4,F
+58195,001311637_05,Female,True,31200.0,Never married,,Rented,2.0,28,New Jersey,2059,30.0,4,F
+93156,000355705_01,Female,,16100.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,41,Virginia,1942,3.0,4,F
+10394,000704432_01,Male,,0.0,Never married,,,,32,California,8962,,3,
+55259,001348966_02,Male,True,24000.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,64,Nevada,671,20.0,6,F
+8839,000511663_02,Male,True,24000.0,Married,,Rented,3.0,63,California,8962,70.0,4,F
+53610,000221815_01,Male,True,40000.0,Never married,,Rented,5.0,57,Montana,218,20.0,3,F
+17996,000844524_02,Female,True,9600.0,Married,,Homeowner with mortgage/loan,2.0,56,Colorado,1291,80.0,6,F
+91030,001454802_01,Female,,48800.0,Widowed,,Homeowner free and clear,1.0,46,Texas,6026,3.0,5,F
+71100,001054713_02,Female,True,18000.0,Divorced/Separated,,Rented,1.0,30,Ohio,2614,3.0,1,F
+82771,001517926_01,Male,,17500.0,Never married,,,,21,Tennessee,1501,,2,
+86616,000672748_02,Female,True,30000.0,Never married,,Rented,2.0,24,Texas,6026,3.0,6,F
+72876,000834721_01,Female,True,28000.0,Married,,Occupied with no rent,2.0,34,Oklahoma,901,40.0,4,F
+23827,000800408_02,Male,False,0.0,Never married,,Homeowner with mortgage/loan,2.0,42,Florida,4979,100.0,5,F
+83465,000120907_02,Male,True,48000.0,Never married,,Rented,1.0,31,Texas,6026,3.0,3,T
+41395,001280348_01,Male,,0.0,Widowed,,,,61,Louisiana,1104,,6,
+18169,000987486_01,Female,True,10400.0,Never married,,Homeowner with mortgage/loan,1.0,55,Colorado,1291,30.0,2,F
+51547,001276744_02,Female,True,22000.0,Never married,,Rented,2.0,28,Mississippi,671,60.0,6,T
+47011,000492187_02,Male,,2000.0,Never married,,Rented,1.0,28,Michigan,2269,2.0,6,T
+97707,000585981_01,Male,,0.0,Never married,,,,30,West Virginia,422,,2,
+83523,000130902_01,Male,True,20000.0,Married,,Rented,2.0,110,Texas,6026,3.0,5,T
+97559,000173027_04,Female,,0.0,Never married,,Homeowner with mortgage/loan,2.0,33,West Virginia,422,30.0,2,F
+56581,000423438_01,Female,True,20000.0,Never married,,Rented,2.0,35,New Jersey,2059,2.0,6,F
+77456,001065561_01,Male,True,20000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,53,Pennsylvania,2997,50.0,1,F
+76067,000529864_01,Female,,30.0,Never married,,Homeowner free and clear,1.0,114,Pennsylvania,2997,60.0,4,F
+85801,000531303_02,Female,True,11000.0,Never married,,Homeowner with mortgage/loan,2.0,41,Texas,6026,3.0,2,F
+12289,000933890_01,Male,,0.0,Married,,,,42,California,8962,,3,
+9731,000616984_06,Female,True,15000.0,Never married,,Rented,1.0,29,California,8962,20.0,5,F
+11283,000811802_01,Male,True,10200.0,Divorced/Separated,,Homeowner free and clear,1.0,54,California,8962,1.0,6,F
+3491,001264542_01,Female,True,20000.0,Married,,Homeowner with mortgage/loan,3.0,69,Arizona,1534,3.0,2,F
+77232,000979829_04,Female,True,18230.0,Never married,,Homeowner free and clear,0.0,31,Pennsylvania,2997,40.0,4,F
+6343,000201751_01,Female,True,28000.0,Divorced/Separated,,Rented,1.0,30,California,8962,4.0,5,F
+67534,001144961_03,Female,,0.0,Never married,,Rented,1.0,26,North Carolina,2357,3.0,3,T
+26151,001342015_02,Male,True,30000.0,Never married,,Homeowner free and clear,3.0,28,Florida,4979,3.0,3,F
+489,000523673_01,Female,True,14400.0,Divorced/Separated,,Rented,1.0,64,Alabama,1047,3.0,1,F
+53909,000143820_01,Male,True,86000.0,Divorced/Separated,,Homeowner free and clear,2.0,56,Nebraska,407,3.0,5,F
+85512,000479640_01,Female,True,8300.0,Divorced/Separated,,Rented,2.0,48,Texas,6026,3.0,3,F
+55941,000096389_02,Male,True,25000.0,Married,,Homeowner with mortgage/loan,4.0,33,New Jersey,2059,160.0,1,T
+2698,000678869_02,Male,True,23000.0,Never married,,Homeowner free and clear,3.0,35,Arizona,1534,40.0,6,F
+67322,001051481_01,Female,True,24900.0,Never married,,Rented,2.0,28,North Carolina,2357,3.0,6,F
+2247,000386360_03,Female,True,500.0,Never married,,Homeowner free and clear,3.0,22,Arizona,1534,50.0,1,F
+17733,000590525_03,Male,True,20500.0,Divorced/Separated,,Homeowner free and clear,4.0,45,Colorado,1291,70.0,2,T
+61232,000538111_02,Male,False,3000.0,Never married,,Homeowner with mortgage/loan,3.0,26,New York,4431,2.0,3,F
+51522,001230452_02,Female,True,15000.0,Divorced/Separated,,Occupied with no rent,2.0,40,Mississippi,671,190.0,2,F
+31682,000302650_01,Male,True,36100.0,Never married,,Rented,1.0,27,Illinois,2925,2.0,4,T
+53167,001232244_01,Female,True,4200.0,Divorced/Separated,,Rented,1.0,29,Missouri,1397,3.0,3,T
+20002,000509987_01,Male,False,3000.0,Never married,,Rented,2.0,26,Delaware,204,100.0,3,F
+79324,000414949_02,Female,False,0.0,Never married,,Rented,3.0,25,South Carolina,1177,2.0,1,F
+61361,000578862_01,Female,True,52000.0,Never married,,Rented,0.0,36,New York,4431,2.0,6,F
+30551,000345638_02,Male,,0.0,Never married,,Homeowner free and clear,1.0,31,Idaho,333,3.0,1,F
+28558,000798522_04,Male,True,25000.0,Never married,,Rented,0.0,38,Georgia,2198,3.0,4,T
+49544,000399832_03,Male,True,29800.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,42,Minnesota,1226,40.0,2,T
+32007,000433136_01,Female,True,30500.0,Married,,Homeowner with mortgage/loan,4.0,60,Illinois,2925,50.0,5,F
+55413,000195195_03,Male,True,4000.0,Never married,,Homeowner free and clear,3.0,32,New Hampshire,307,3.0,6,F
+39016,000252102_02,Female,False,0.0,Married,,Rented,2.0,25,Kentucky,935,50.0,5,F
+84355,000274220_01,Male,True,35000.0,Divorced/Separated,,Rented,1.0,50,Texas,6026,3.0,5,F
+3829,000007742_01,Male,True,5000.0,Divorced/Separated,,Rented,1.0,37,Arkansas,653,3.0,2,T
+63856,001212819_01,Female,True,42000.0,Married,,Rented,3.0,53,New York,4431,2.0,4,F
+3747,001467174_01,Female,,10.0,Divorced/Separated,,,,34,Arizona,1534,,2,
+46547,000229924_03,Male,True,15000.0,Divorced/Separated,,Homeowner with mortgage/loan,3.0,45,Michigan,2269,20.0,2,F
+73003,000988863_01,Male,True,50000.0,Divorced/Separated,,Homeowner free and clear,1.0,60,Oklahoma,901,3.0,3,F
+79605,000684333_06,Female,True,7000.0,Never married,,Rented,1.0,26,South Carolina,1177,3.0,6,T
+88461,000997845_02,Female,,0.0,Married,,Rented,2.0,25,Texas,6026,1.0,2,F
+28392,000716018_01,Male,True,5000.0,Married,,Rented,2.0,40,Georgia,2198,3.0,3,F
+46553,000231209_01,Male,True,35000.0,Divorced/Separated,,Rented,2.0,43,Michigan,2269,20.0,3,F
+32445,000601733_01,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,46,Illinois,2925,40.0,1,F
+87703,000867456_02,Male,True,14000.0,Married,,Rented,0.0,36,Texas,6026,20.0,6,F
+5304,000070292_01,Female,True,17500.0,Divorced/Separated,,Homeowner free and clear,3.0,50,California,8962,2.0,4,F
+44401,000387101_02,Male,,0.0,Never married,,Homeowner free and clear,0.0,29,Massachusetts,1642,3.0,6,F
+49730,000564139_03,Female,True,8000.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,52,Minnesota,1226,3.0,4,F
+72596,000513099_01,Female,True,18000.0,Divorced/Separated,,Homeowner free and clear,1.0,38,Oklahoma,901,40.0,2,F
+67218,001004929_01,Male,True,21000.0,Never married,,Rented,1.0,35,North Carolina,2357,3.0,5,F
+54840,000681104_04,Male,,1600.0,Married,,Rented,4.0,28,Nevada,671,60.0,1,F
+95271,000044187_02,Male,True,10000.0,Never married,,Rented,2.0,21,Washington,1681,3.0,3,F
+87140,000766207_06,Male,True,32000.0,Never married,,Homeowner free and clear,2.0,35,Texas,6026,40.0,5,F
+18006,000853354_03,Male,True,36000.0,Divorced/Separated,,Homeowner free and clear,3.0,49,Colorado,1291,100.0,6,F
+25211,001124120_02,Male,,0.0,Married,,Homeowner with mortgage/loan,1.0,45,Florida,4979,3.0,6,F
+40466,000323409_01,Female,True,15000.0,Never married,,Rented,0.0,36,Louisiana,1104,3.0,1,T
+121,000133381_02,Male,True,6800.0,Never married,,Homeowner free and clear,1.0,28,Alabama,1047,30.0,1,F
+54133,000690586_02,Female,True,37700.0,Married,,Homeowner with mortgage/loan,2.0,44,Nebraska,407,70.0,5,F
+20911,000125578_02,Male,True,85000.0,Divorced/Separated,,Rented,2.0,40,Florida,4979,3.0,4,F
+18614,001386767_01,Male,True,61000.0,Never married,,Homeowner with mortgage/loan,2.0,36,Colorado,1291,3.0,6,T
+8353,000449614_01,Female,True,2200.0,Divorced/Separated,,Rented,1.0,57,California,8962,4.0,6,F
+13227,001051875_03,Male,True,21000.0,Never married,,Homeowner with mortgage/loan,2.0,25,California,8962,30.0,4,F
+5661,000116709_03,Male,,0.0,Never married,,Rented,4.0,23,California,8962,2.0,5,F
+87063,000752292_02,Male,False,800.0,Married,,Homeowner free and clear,2.0,59,Texas,6026,3.0,6,F
+23915,000820590_01,Male,True,10000.0,Never married,,Rented,1.0,41,Florida,4979,3.0,3,F
+64301,001315905_01,Male,,0.0,Never married,,Rented,0.0,25,New York,4431,60.0,6,T
+28967,001004422_04,Male,True,7200.0,Never married,,Rented,2.0,31,Georgia,2198,3.0,6,F
+92261,001341718_01,Male,True,15000.0,Never married,,Rented,0.0,59,Utah,665,50.0,3,F
+5260,000065167_04,Male,,0.0,Married,,Homeowner with mortgage/loan,2.0,82,California,8962,50.0,3,F
+75887,000469239_02,Female,False,12200.0,Married,,Homeowner free and clear,1.0,50,Pennsylvania,2997,30.0,3,F
+21078,000165408_03,Male,True,35000.0,Never married,,Homeowner with mortgage/loan,2.0,26,Florida,4979,50.0,3,F
+9746,000618949_02,Male,True,24000.0,Married,,Rented,2.0,39,California,8962,20.0,5,F
+67770,001257976_01,Female,True,13600.0,Married,,Rented,2.0,28,North Carolina,2357,3.0,6,F
+92837,000161176_01,Male,,6000.0,Married,,,,44,Virginia,1942,,4,
+89175,001128527_02,Female,True,12600.0,Married,,Rented,2.0,45,Texas,6026,3.0,6,F
+69006,000182380_02,Male,True,20000.0,Never married,,Homeowner with mortgage/loan,2.0,22,Ohio,2614,200.0,5,F
+20539,000035396_04,Male,True,25000.0,Never married,,Rented,4.0,26,Florida,4979,3.0,2,F
+89666,001217524_01,Female,,0.0,Married,,Homeowner with mortgage/loan,2.0,42,Texas,6026,2.0,6,F
+46532,000222238_04,Male,True,40000.0,Divorced/Separated,,Homeowner free and clear,2.0,46,Michigan,2269,30.0,2,F
+84195,000247883_01,Female,True,22000.0,Divorced/Separated,,Rented,3.0,56,Texas,6026,3.0,3,T
+73399,001475419_02,Male,True,4800.0,Married,,Homeowner with mortgage/loan,2.0,53,Oklahoma,901,3.0,4,F
+23390,000698729_01,Female,True,47250.0,Married,,Homeowner with mortgage/loan,2.0,66,Florida,4979,3.0,5,F
+89365,001161883_02,Male,True,35000.0,Married,,Homeowner free and clear,3.0,38,Texas,6026,3.0,6,F
+88985,001091559_03,Female,False,5200.0,Never married,,Homeowner with mortgage/loan,4.0,26,Texas,6026,20.0,1,F
+21588,000272949_01,Female,True,20000.0,Married,,Homeowner with mortgage/loan,3.0,24,Florida,4979,3.0,3,F
+88127,000940407_03,Male,True,10000.0,Never married,,Homeowner free and clear,2.0,33,Texas,6026,100.0,5,F
+64230,001300072_01,Male,True,100000.0,Never married,,Occupied with no rent,1.0,26,New York,4431,1.0,2,F
+78211,001366151_02,Male,True,4900.0,Never married,,Homeowner free and clear,3.0,26,Pennsylvania,2997,40.0,3,F
+25969,001300009_04,Female,,0.0,Never married,,Rented,1.0,46,Florida,4979,3.0,2,F
+855,000912065_02,Male,,0.0,Never married,,Homeowner with mortgage/loan,2.0,58,Alabama,1047,90.0,3,F
+77876,001222968_03,Male,True,4800.0,Never married,,Homeowner with mortgage/loan,5.0,23,Pennsylvania,2997,3.0,2,F
+1441,001521410_04,Female,,0.0,Divorced/Separated,,Rented,2.0,64,Alabama,1047,3.0,1,F
+3524,001282314_08,Male,True,40000.0,Married,,Rented,3.0,43,Arizona,1534,3.0,5,T
+93076,000304927_04,Male,,0.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,60,Virginia,1942,3.0,2,T
+96009,000538956_03,Male,True,40000.0,Never married,,Rented,6.0,27,Washington,1681,80.0,2,F
+20354,001305874_03,Male,True,7000.0,Divorced/Separated,,Rented,1.0,44,District of Columbia,170,1.0,6,F
+20259,000588680_01,Male,True,52000.0,Married,,Rented,0.0,49,District of Columbia,170,4.0,2,F
+72226,000059442_01,Female,True,38000.0,Divorced/Separated,,Rented,2.0,47,Oklahoma,901,70.0,4,T
+28999,001021077_01,Male,True,17000.0,Never married,,Rented,1.0,27,Georgia,2198,3.0,4,T
+65516,000171312_03,Male,,20020.0,Never married,,Homeowner with mortgage/loan,0.0,41,North Carolina,2357,80.0,6,F
+26730,001480628_05,Female,,23000.0,Widowed,,Homeowner free and clear,2.0,67,Florida,4979,3.0,1,F
+96626,000934308_02,Male,True,7000.0,Never married,,Rented,1.0,23,Washington,1681,3.0,4,F
+84063,000225931_02,Female,True,5000.0,Never married,,Homeowner free and clear,3.0,21,Texas,6026,20.0,2,F
+27845,000452213_03,Male,,0.0,Never married,,Homeowner free and clear,3.0,37,Georgia,2198,30.0,4,F
+38363,000779646_04,Female,True,30000.0,Never married,,Rented,1.0,23,Kansas,647,30.0,5,T
+94336,001026679_01,Male,,12100.0,Married,,Homeowner free and clear,1.0,52,Virginia,1942,3.0,4,F
+35587,000504218_01,Female,True,12000.0,Married,,Homeowner free and clear,3.0,53,Indiana,1467,3.0,1,F
+52582,000742891_01,Female,,0.0,Married,,Rented,2.0,29,Missouri,1397,50.0,4,F
+86322,000620831_01,Female,True,23800.0,Never married,,Homeowner with mortgage/loan,1.0,34,Texas,6026,3.0,6,T
+21148,000180228_02,Female,,0.0,Married,,Rented,2.0,30,Florida,4979,3.0,5,F
+60041,000221496_01,Male,,2000.0,Married,,Homeowner with mortgage/loan,2.0,65,New York,4431,10.0,2,F
+90460,001357496_01,Male,True,15000.0,Married,,Rented,3.0,44,Texas,6026,3.0,3,F
+2577,000592823_01,Male,True,35000.0,Divorced/Separated,,Homeowner free and clear,1.0,57,Arizona,1534,3.0,2,F
+11182,000799530_02,Male,True,20000.0,Married,,Rented,2.0,35,California,8962,70.0,5,F
+61275,000548335_02,Male,,0.0,Married,,Rented,0.0,55,New York,4431,2.0,6,F
+84078,000228036_01,Male,True,5400.0,Married,,Rented,0.0,43,Texas,6026,30.0,3,T
+69495,000379135_01,Female,,12000.0,Never married,,Rented,1.0,23,Ohio,2614,3.0,3,T
+88195,000955389_02,Female,,3000.0,Never married,,Homeowner free and clear,1.0,53,Texas,6026,3.0,1,F
+2527,000563711_03,Male,True,12600.0,Never married,,Rented,1.0,23,Arizona,1534,3.0,5,T
+59059,001262484_02,Male,True,35100.0,Married,,Homeowner free and clear,4.0,38,New Mexico,404,3.0,3,F
+3530,001287464_02,Male,True,38000.0,Never married,,Homeowner free and clear,2.0,58,Arizona,1534,40.0,2,F
+32191,000503491_05,Female,True,45000.0,Divorced/Separated,,Homeowner with mortgage/loan,2.0,43,Illinois,2925,30.0,2,F
+54742,000536128_02,Male,False,7000.0,Never married,,Homeowner with mortgage/loan,2.0,30,Nevada,671,70.0,4,F
+89088,001109323_01,Male,True,20000.0,Never married,,Homeowner free and clear,1.0,34,Texas,6026,80.0,6,F
+72769,000733995_02,Female,False,0.0,Never married,,Homeowner with mortgage/loan,2.0,37,Oklahoma,901,90.0,4,F
+29234,001148041_01,Male,True,15000.0,Married,,Rented,1.0,53,Georgia,2198,60.0,4,F
+96334,000743493_02,Male,True,120000.0,Married,,Homeowner with mortgage/loan,2.0,46,Washington,1681,80.0,4,F
+84658,000332337_01,Male,True,13000.0,Never married,,Rented,1.0,36,Texas,6026,3.0,1,T
+58426,001451260_01,Male,True,18000.0,Married,,Rented,2.0,57,New Jersey,2059,2.0,1,F
+19425,000879251_01,Female,True,20000.0,Divorced/Separated,,Homeowner with mortgage/loan,1.0,61,Connecticut,832,180.0,4,F
+24566,000970738_03,Male,False,5400.0,Never married,,Homeowner with mortgage/loan,2.0,23,Florida,4979,3.0,1,F
+32680,000698677_02,Male,True,30000.0,Never married,,Rented,0.0,33,Illinois,2925,120.0,2,T
+51843,000125135_02,Male,False,20000.0,Never married,,Rented,1.0,41,Missouri,1397,40.0,5,F
+8756,000500816_02,Female,,21000.0,Married,,Homeowner free and clear,2.0,37,California,8962,2.0,1,F
+59401,000062769_06,Female,,0.0,Never married,,Rented,1.0,24,New York,4431,130.0,1,F
+97007,001194201_01,Male,True,16200.0,Married,,Homeowner with mortgage/loan,3.0,39,Washington,1681,3.0,3,F
+9120,000543385_05,Female,True,11400.0,Never married,,Homeowner with mortgage/loan,6.0,23,California,8962,250.0,5,F
+78988,000088829_01,Male,True,17000.0,Never married,,Rented,1.0,32,South Carolina,1177,3.0,6,F
+21488,000251615_01,Female,True,36000.0,Never married,,Rented,2.0,30,Florida,4979,3.0,1,T
+68918,000143062_01,Male,,0.0,Never married,,,,44,Ohio,2614,,3,
+15085,001277639_01,Male,,700.0,Divorced/Separated,,,,59,California,8962,,5,
+63241,001059920_01,Male,True,68000.0,Never married,,Rented,4.0,23,New York,4431,50.0,5,F
+5469,000090703_03,Male,True,30000.0,Married,,Rented,4.0,53,California,8962,40.0,6,F
+24435,000934337_01,Male,False,32000.0,Married,,Rented,3.0,43,Florida,4979,3.0,4,F
+49800,000630221_02,Female,,0.0,Divorced/Separated,,Rented,2.0,79,Minnesota,1226,3.0,2,F
+26647,001460450_01,Male,True,47000.0,Married,,Homeowner with mortgage/loan,2.0,43,Florida,4979,3.0,1,T
+17434,000331421_01,Female,True,130000.0,Never married,,Rented,4.0,52,Colorado,1291,40.0,4,T
+41453,001334313_01,Female,True,10000.0,Never married,,Rented,0.0,29,Louisiana,1104,50.0,3,T
+21496,000253462_03,Female,,0.0,Married,,Homeowner with mortgage/loan,1.0,70,Florida,4979,3.0,1,F
+18751,001500726_01,Female,True,26200.0,Divorced/Separated,,Rented,1.0,58,Colorado,1291,3.0,1,T
+51683,001511040_01,Male,,0.0,Divorced/Separated,,,,52,Mississippi,671,,6,
+64104,001266413_03,Male,False,0.0,Never married,,Homeowner with mortgage/loan,2.0,36,New York,4431,130.0,4,F
+27727,000400444_02,Male,False,0.0,Never married,,Rented,1.0,27,Georgia,2198,3.0,3,T
+59743,000148498_02,Male,True,100000.0,Never married,,Rented,3.0,47,New York,4431,100.0,6,T
+73028,001019475_01,Male,,0.0,Widowed,,Occupied with no rent,1.0,66,Oklahoma,901,40.0,4,F
+84688,000338158_02,Male,True,7000.0,Married,,Rented,2.0,31,Texas,6026,3.0,3,F
+49142,000042797_01,Male,True,15000.0,Never married,,Rented,1.0,26,Minnesota,1226,1.0,2,T
+90996,001449354_01,Female,,0.0,Married,,Rented,1.0,39,Texas,6026,3.0,2,F
+67394,001082623_01,Male,True,55000.0,Never married,,Rented,2.0,30,North Carolina,2357,20.0,2,F
+86959,000731814_01,Male,,0.0,Married,,Rented,2.0,34,Texas,6026,3.0,4,T
+29496,001274533_02,Male,True,50000.0,Married,,Homeowner free and clear,2.0,41,Georgia,2198,40.0,6,F
+91403,000011493_01,Female,True,500.0,Never married,,,,23,Utah,665,,6,
+2561,000583558_03,Male,,0.0,Never married,,Homeowner with mortgage/loan,3.0,29,Arizona,1534,20.0,2,F
+53719,000847623_02,Male,True,30200.0,Divorced/Separated,,Rented,1.0,55,Montana,218,2.0,3,T
+88953,001086500_04,Male,True,100900.0,Never married,,Rented,4.0,25,Texas,6026,3.0,2,F
+41811,000533075_01,Male,True,28000.0,Never married,,Homeowner with mortgage/loan,1.0,55,Maine,325,3.0,6,F
+1461,000126812_02,Male,True,61000.0,Never married,,Rented,3.0,28,Alaska,162,1.0,1,F
+22934,000599598_01,Male,True,36500.0,Married,,Homeowner free and clear,2.0,45,Florida,4979,3.0,3,F
+65343,000093169_04,Male,True,72000.0,Married,,Homeowner with mortgage/loan,3.0,43,North Carolina,2357,10.0,4,F
+20630,000057955_02,Male,True,6000.0,Married,,Rented,1.0,43,Florida,4979,80.0,2,T
+61353,000576384_01,Male,True,180000.0,Never married,,Rented,0.0,36,New York,4431,2.0,1,F
+21360,000222961_02,Female,,0.0,Married,,Homeowner with mortgage/loan,3.0,68,Florida,4979,3.0,1,F
+25193,001121884_05,Male,True,50000.0,Never married,,Rented,2.0,21,Florida,4979,3.0,4,F
+23262,000672662_01,Female,,430.0,Married,,Homeowner free and clear,6.0,47,Florida,4979,3.0,2,F
+87715,000869431_01,Male,True,44000.0,Married,,Rented,2.0,56,Texas,6026,60.0,1,T
+42087,000001715_01,Male,True,50000.0,Never married,,Homeowner free and clear,1.0,32,Maryland,1337,3.0,5,F
+46297,000113691_04,Male,True,12000.0,Divorced/Separated,,Homeowner free and clear,2.0,39,Michigan,2269,80.0,6,F
+60581,000370683_03,Female,False,0.0,Never married,,Rented,2.0,28,New York,4431,1.0,1,F
+65679,000257318_02,Female,True,160000.0,Married,,Rented,3.0,36,North Carolina,2357,3.0,2,F
+95436,000158601_02,Female,,0.0,Married,,Rented,2.0,52,Washington,1681,40.0,5,F
+67129,000961606_04,Male,,0.0,Never married,,Homeowner with mortgage/loan,1.0,30,North Carolina,2357,20.0,6,F
+94399,001063357_01,Female,True,160000.0,Divorced/Separated,,Homeowner free and clear,2.0,51,Virginia,1942,150.0,3,F
+40764,000613999_02,Male,,0.0,Never married,,Homeowner with mortgage/loan,1.0,21,Louisiana,1104,3.0,1,F
+42186,000087463_03,Female,,0.0,Never married,,Homeowner with mortgage/loan,4.0,34,Maryland,1337,3.0,3,T
+80026,001080446_02,Female,,0.0,Married,,Rented,1.0,36,South Carolina,1177,3.0,4,F
